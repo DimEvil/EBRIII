@@ -85,17 +85,23 @@ Chair: TBD
 Chair: TBD
 
 14:00-14:45 | **DiSSCo session** - TBC -
-| 14:00 - 14:15 | **DiSSCo CSO** | tbd | tbd
-| 14:15 - 14:30 | **DiSSCo NL** | tbd | tbd
-| 14:30 - 14:45 | **DiSSCo BE** | tbd |tbd
+| 14:00 - 14:15 | **DiSSCo developments at EU level** | tbd | tbd
+| 14:15 - 14:30 | **Flemish collections: inventory and GBIF hosted portal** | tbd | tbd
+| 14:30 - 14:45 | **Developments at federal level and use-cases for digitising herbarium collections** | tbd |tbd
+
+
 14:45-15:30 | **BGE session** - TBC -
 | 14:45 - 15:00 | **BGE** | tbd | tbd
 | 15:00 - 15:15 | **BOLD** | tbd | tbd
 | 15:15 - 15:30 | **ERGA** | tbd |tbd
+
+
 15:30-16:15 | **ELIXIR session**
 | 15:30 - 15:45 | **ELIXIR** | tbd | tbd
 | 15:45 - 16:00 | **ELIXIR** | tbd | tbd
 | 16:00 - 16:15 | **ELIXIR** | tbd |tbd
+
+
 16:15-16:30 | **Closing of the meeting** 
 
 
