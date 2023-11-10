@@ -2,17 +2,17 @@
 
 - name: Tim Hirsch
   role: Deputy Director, Head of Participation and Engagement, Global Biodiversity Information Facility (GBIF)
-  image: /assets/images/dimi.png
+  image: /assets/images/timhirsch.png
   description: >
-    Dimitri is Belgian [GBIF](https://www.gbif.org) node manager at the 
-    [Belgian Biodiversity Platform](http://www.biodiversity.be). He loves to 
-    chat with researchers to help them publish their data. His ultimate goal is 
-    to get Belgium on the world map of biodiversity data.
-  orcid: 0000-0002-0846-9116
-  github: dimevil
-  twitter: dimibro
-  mastodon: https://fosstodon.org/@dimitri
-  email: dimitri.brosens@inbo.be
+    Tim has been deputy director at GBIF since 2013, heading the Participation and Engagement team which deals with 
+    network collaboration, partnerships, communications and capacity development across this global data 
+    and community. He arrived in GBIF having followed an unconventional career path beginning in journalism (including 20 years with the BBC),
+    and moving to science communication including consultancies with the Millennium Ecosystem Assessment, 
+    The Economics of Ecosystems and Biodiversity (TEEB) and the Convention on Biological Diversity (CBD). 
+    Tim has led the writing team of the third, fourth and fifth editions of the CBD's flagship Global Biodiversity Outlook (GBO) series. 
+    In his present role, Tim leads the team engaging private sector and development actors in sharing biodiversity data through GBIF.
+  orcid: 0000-0002-5015-5807
+  
 
   - name: Dimitri Brosens
   role: Open data publisher
