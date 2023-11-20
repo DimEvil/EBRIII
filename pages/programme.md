@@ -70,7 +70,7 @@ Chair: TBD
 | 11:00 - 11:15 | **Terrestrial ecosystem accounting with ecopatches** | tbd |UCL
  11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i>
 11:45-12:15 | **MAMBO session**
-| 11:45 - 12:00 | **AI Image & Sound recognition** | tbd | 
+| 11:45 - 12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** | Vincent Kalkman | 
 | 12:00 - 12:15 | **Satellite/drone/LiDAR** | tbd |tbd
 12:15-12:45 | **ARISE session**
 | 12:15 - 12:30 | **ARISE Insect camera's** | tbd | tbd
