@@ -1,11 +1,12 @@
 ---
-layout: team
-team: keynotes
+layout: home
 title: Abstracts
+description: EBR Abstracts
+background: /assets/backgrounds/banner2.png
 permalink: /Abstracts/
 ---
 
-#Keynotes
+# Keynotes
 
 **Mapping RI landscape: the role of Biodiversa+** **Rob Hendriks**
 
