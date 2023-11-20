@@ -8,7 +8,9 @@ permalink: /Abstracts/
 
 # Keynotes
 
-**Mapping RI landscape: the role of Biodiversa+** **Rob Hendriks**
+## **Mapping RI landscape: the role of Biodiversa+** 
+
+## **Rob Hendriks**
 
 Biodiversa+, the European Biodiversity Partnership, aims at increasing the use of Research Infrastructures. In 2022-2023 a survey was conducted and a dialogue meeting held. 
 This resulted in a report offering recommendations on how Biodiversa+ can facilitate the use of research infrastructures by biodiversity researchers. A brief presentation of 
