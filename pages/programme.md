@@ -28,7 +28,7 @@ Here we will publish the programme.
 Chair: Niels Raes
 
 10:10-10:40 | **Policy & Biodiversity** - TBC **keynote**{:.badge .bg-danger}
-10:40-11:10 | **Policy & Biodiversity** - Tim Hirsch **keynote**{:.badge .bg-danger}
+10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee Break/ Poster setup**  <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
@@ -85,17 +85,23 @@ Chair: TBD
 Chair: TBD
 
 14:00-14:45 | **DiSSCo session** - TBC -
-| 14:00 - 14:15 | **DiSSCo CSO** | tbd | tbd
-| 14:15 - 14:30 | **DiSSCo NL** | tbd | tbd
-| 14:30 - 14:45 | **DiSSCo BE** | tbd |tbd
+| 14:00 - 14:15 | **DiSSCo developments at EU level** | tbd | tbd
+| 14:15 - 14:30 | **Flemish collections: inventory and GBIF hosted portal** | tbd | tbd
+| 14:30 - 14:45 | **Developments at federal level and use-cases for digitising herbarium collections** | tbd |tbd
+
+
 14:45-15:30 | **BGE session** - TBC -
 | 14:45 - 15:00 | **BGE** | tbd | tbd
 | 15:00 - 15:15 | **BOLD** | tbd | tbd
 | 15:15 - 15:30 | **ERGA** | tbd |tbd
+
+
 15:30-16:15 | **ELIXIR session**
 | 15:30 - 15:45 | **ELIXIR** | tbd | tbd
 | 15:45 - 16:00 | **ELIXIR** | tbd | tbd
 | 16:00 - 16:15 | **ELIXIR** | tbd |tbd
+
+
 16:15-16:30 | **Closing of the meeting** 
 
 
