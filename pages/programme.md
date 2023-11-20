@@ -86,8 +86,8 @@ Chair: TBD
 
 14:00-14:45 | **DiSSCo session** - TBC -
 | 14:00 - 14:15 | **DiSSCo developments at EU level** | tbd | tbd
-| 14:15 - 14:30 | **Flemish collections: inventory and GBIF hosted portal** | tbd | tbd
-| 14:30 - 14:45 | **Developments at federal level and use-cases for digitising herbarium collections** | tbd |tbd
+| 14:15 - 14:30 | **FWB and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** | tbd | tbd
+| 14:30 - 14:45 | **Developments at federal level** | tbd |tbd
 
 
 14:45-15:30 | **BGE session** - TBC -
