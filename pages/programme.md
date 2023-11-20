@@ -27,7 +27,7 @@ Here we will publish the programme.
 
 Chair: Niels Raes
 
-10:10-10:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks **keynote**{:.badge .bg-danger}
+10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen **keynote**{:.badge .bg-danger}
 10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee Break/ Poster setup**  <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
@@ -45,7 +45,7 @@ Chair: TBC
 14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - | Botanic Garden Meise
 14:40-15:00 | **EBR 2:  Decolonisation** - Patrick Semal and Didier Van den Spiegel | Royal Belgian Institute for Natural Sciences - Royal Museum for Central Africa
 15:00-15:20 | **EBR 3:  New GBIF Data model** - tbd -
-15:20-15:40 | **EBR 4:  Mapping RI landscape** - Rob Hendriks -  Ministry of Agriculture, Nature and Food Quality
+15:20-15:40 | **EBR 4:  **Mapping the Research Infrastructure landscape: the role of Biodiversa+** -  Rob Hendriks -  Ministry of Agriculture, Nature and Food Quality
 
 15:40-19:00 | **Biodiversity Market/ Reception**  <i class="fad fa-glass-cheers"></i>
 
