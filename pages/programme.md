@@ -27,7 +27,7 @@ Here we will publish the programme.
 
 Chair: Niels Raes
 
-10:10-10:40 | **Policy & Biodiversity** - TBC **keynote**{:.badge .bg-danger}
+10:10-10:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks **keynote**{:.badge .bg-danger}
 10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee Break/ Poster setup**  <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
