@@ -13,8 +13,6 @@ It is not necessary to present a poster in order to participate in the conferenc
 
 The scope of the Poster session is: 
 
-**biodiversity research, biodiversity informatics, open data, open science. data management, collection management, data driven policy**{:.badge .bg-info text-dark}.
-
 <div class="alert alert-primary" role="alert">
   Biodiversity Research!
 </div>
