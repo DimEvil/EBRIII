@@ -11,8 +11,9 @@ There will be a poster session organised at the Empowering Biodiversity Research
 
 It is not necessary to present a poster in order to participate in the conference. The poster session will be integrated in the Biodiversity Informatics Market. 
 
-The scope of the Poster session is: 
+The scope of the Poster session is:
 
+{:.text-center}
 <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
 <label class="btn btn-outline-primary" for="btn-check-outlined">Data driven Policy!</label>
 <input type="radio" class="btn-check" name="options-outlined" id="success-outlined" autocomplete="off" checked>
