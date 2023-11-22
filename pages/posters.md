@@ -18,10 +18,11 @@ The scope of the Poster session is:
 <label class="btn btn-outline-primary" for="btn-check-outlined">Data driven Policy!</label>
 <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
 <label class="btn btn-outline-primary" for="btn-check-outlined">Data Management! & Collection Management!</label>
-<input type="radio" class="btn-check" name="options-outlined" id="danger-outlined" autocomplete="off">
-<label class="btn btn-outline-danger" for="danger-outlined">Open Data & Open Science!</label>
-<input type="radio" class="btn-check" name="options-outlined" id="danger-outlined" autocomplete="off">
-<label class="btn btn-outline-danger" for="danger-outlined">Biodiversity Informatics! & Biodiversity Research!</label>
+<input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+<label class="btn btn-outline-primary" for="btn-check-outlined">Open Data & Open Science!</label>
+<input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+<label class="btn btn-outline-primary" for="btn-check-outlined">Biodiversity Informatics! & Biodiversity Research!</label>
+
 
 
 All poster abstracts submitted will be reviewed by the organising committee and you will be notified by the end of February 2024 if your poster has been accepted. The deadline for poster submission is February 14th.
