@@ -9,7 +9,7 @@ permalink: /posters/
 
 There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference.
 
-It is not necessary to present a poster in order to participate in the conference. The poster session will be integrated in the Biodiversity Informatics Market. 
+It is not necessary to present a poster in order to participate in the conference. Poster sessions will take place during the Coffee breaks, Lunch breaks, Biodiversity Informatics Market & Reception!
 
 The scope of the Poster session is:
 
@@ -30,6 +30,7 @@ You do not need to be registered for the conference before submitting an abstrac
 If the submitting author is not able to participate in the conference please contact the organisers to inform them of any changes. 
 
 Please complete the submission process for each poster you would like to present.
+After your poster has been accepted, please print it out (DIN A0, 841 x 1189 mm) and bring it with you to the conference.
 
 {:.text-center}
 **Deadline 2024-02-14**{:.badge .bg-danger}
