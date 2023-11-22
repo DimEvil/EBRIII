@@ -5,7 +5,7 @@ background: /assets/images/ebrposter1.png
 permalink: /posters/
 ---
 
-# You are invited to submit an abstract for a poster presentation.
+## You are invited to submit an abstract for a poster presentation.
 
 There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference.
 
