@@ -13,22 +13,8 @@ It is not necessary to present a poster in order to participate in the conferenc
 
 The scope of the Poster session is: 
 
-<div class="alert alert-primary" role="alert">
-  Data driven Policy!
-</div>
-<div class="alert alert-success" role="alert">
-  Open Data! & Open Science!
-</div>
-<div class="alert alert-warning" role="alert">
-  Data Management! & Collection Management!
-</div>
-<div class="alert alert-primary" role="alert">
-  Biodiversity Informatics! & Biodiversity Research!
-</div>
-
 <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
 <label class="btn btn-outline-primary" for="btn-check-outlined">Data driven Policy!</label>
-
 <input type="checkbox" class="btn-check" id="btn-check-2-outlined" checked autocomplete="off">
 <label class="btn btn-outline-secondary" for="btn-check-2-outlined">Open Data! & Open Science!</label><br>
 
