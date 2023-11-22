@@ -21,9 +21,11 @@ The scope of the Poster session is:
 </div>
 <div class="alert alert-warning" role="alert">
   Data Management! & Collection Management!
+</div>
 <div class="alert alert-primary" role="alert">
   Biodiversity Informatics! & Biodiversity Research!
 </div>
+
 
 
 All poster abstracts submitted will be reviewed by the organising committee and you will be notified by the end of February 2024 if your poster has been accepted. The deadline for poster submission is February 14th.
