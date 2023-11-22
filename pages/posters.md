@@ -16,10 +16,10 @@ The scope of the Poster session is:
 {:.text-center}
 <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
 <label class="btn btn-outline-primary" for="btn-check-outlined">Data driven Policy!</label>
-<input type="radio" class="btn-check" name="options-outlined" id="success-outlined" autocomplete="off" checked>
-<label class="btn btn-outline-success" for="success-outlined">Data Management! & Collection Management!</label><br>
-<input type="checkbox" class="btn-check" id="btn-check-2-outlined" checked autocomplete="off">
-<label class="btn btn-outline-secondary" for="btn-check-2-outlined">Open Data! & Open Science!</label>
+<input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
+<label class="btn btn-outline-primary" for="btn-check-outlined">Data Management! & Collection Management!</label>
+<input type="radio" class="btn-check" name="options-outlined" id="danger-outlined" autocomplete="off">
+<label class="btn btn-outline-danger" for="danger-outlined">Open Data & Open Science!</label>
 <input type="radio" class="btn-check" name="options-outlined" id="danger-outlined" autocomplete="off">
 <label class="btn btn-outline-danger" for="danger-outlined">Biodiversity Informatics! & Biodiversity Research!</label>
 
