@@ -49,6 +49,9 @@ Chair: TBC
 
 15:40-19:00 | **Biodiversity Market / Poster Session / Reception**  <i class="fa fa-coffee" aria-hidden="true"></i>
 
+ |
+
+
 ### Day 2: Tuesday, March 26
 
 #### Session 2 Day Two Morning
