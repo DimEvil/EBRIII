@@ -29,6 +29,7 @@ If the submitting author is not able to participate in the conference please con
 
 Please complete the submission process for each poster you would like to present.
 
+{:.text-center}
 **Deadline 2024-02-14**{:.badge .bg-danger}
 
 {:.text-center}
