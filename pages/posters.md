@@ -5,34 +5,24 @@ background: /assets/images/ebrposter1.png
 permalink: /posters/
 ---
 
-There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference.
-
 # You are invited to submit an abstract for a poster presentation.
+
+There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference.
 
 It is not necessary to present a poster in order to participate in the conference. The poster session will be integrated in the Biodiversity Informatics Market. 
 
 The scope of the Poster session is: 
 
 <div class="alert alert-primary" role="alert">
-  Biodiversity Research!
-</div>
-<div class="alert alert-secondary" role="alert">
-  Biodiversity Informatics!
+  Data driven Policy!
 </div>
 <div class="alert alert-success" role="alert">
-  Open Data!
-</div>
-<div class="alert alert-danger" role="alert">
-  Open Science!
+  Open Data! & Open Science!
 </div>
 <div class="alert alert-warning" role="alert">
-  Data Management!
-</div>
-<div class="alert alert-info" role="alert">
-  Collection Management!
-</div>
-<div class="alert alert-light" role="alert">
-  Data driven Policy!
+  Data Management! & Collection Management!
+<div class="alert alert-primary" role="alert">
+  Biodiversity Informatics! & Biodiversity Research!
 </div>
 
 
