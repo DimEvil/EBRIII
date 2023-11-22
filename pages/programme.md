@@ -68,7 +68,7 @@ Chair: TBD
 | 10:30 - 10:45 | **How changes in human-induced pressures affect ecosystems** | tbd | Lifewatch-Nl
 | 10:45 - 11:00 | **DTO Bioflow - optimize data flows to the EU Digital Twin of the Ocean** | tbd |INBO
 | 11:00 - 11:15 | **Terrestrial ecosystem accounting with ecopatches** | Julien Radoux |UCL
- 11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i>
+11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i>
 11:45-12:15 | **MAMBO session**
 | 11:45 - 12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** | Vincent Kalkman | 
 | 12:00 - 12:15 | **Satellite/drone/LiDAR** | tbd |tbd
