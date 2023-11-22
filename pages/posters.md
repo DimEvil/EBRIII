@@ -29,6 +29,8 @@ If the submitting author is not able to participate in the conference please con
 
 Please complete the submission process for each poster you would like to present.
 
+**Deadline 2024-02-14**{:.badge .bg-danger}
+
 {:.text-center}
 [Submit your poster abstract](https://forms.gle/v4H9UHLpRMUAU4Y26){:.btn .btn-primary}
 
