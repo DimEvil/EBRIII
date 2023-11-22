@@ -33,7 +33,7 @@ Chair: Niels Raes
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
 
-12:40-14:00 | **Lunch Break | Poster Session** 
+12:40-14:00 | **Lunch Break / Poster Session** 
 
 #### Session 2 Day One Afternoon 
 
@@ -45,11 +45,11 @@ Chair: TBC
 14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - | Botanic Garden Meise
 14:40-15:00 | **EBR 2:  Decolonisation** - Patrick Semal and Didier Van den Spiegel | Royal Belgian Institute for Natural Sciences - Royal Museum for Central Africa
 15:00-15:20 | **EBR 3:  New GBIF Data model** - tbd -
-15:20-15:40 | **EBR 4:  **Mapping the Research Infrastructure landscape: the role of Biodiversa+** -  Rob Hendriks - | Ministry of Agriculture, Nature and Food Quality **keynote**{:.badge .bg-danger}
+15:20-15:40 | **EBR 4:  Mapping the Research Infrastructure landscape: the role of Biodiversa+** -  Rob Hendriks - | Ministry of Agriculture, Nature and Food Quality **keynote**{:.badge .bg-danger}
 
-15:40-19:00 | **Biodiversity Market | Poster Session | Reception**  <i class="fad fa-glass-cheers"></i>
+15:40-19:00 | **Biodiversity Market / Poster Session / Reception**  <i class="fa fa-coffee" aria-hidden="true"></i>
 
-### Day 1: Tuesday, March 26
+### Day 2: Tuesday, March 26
 
 #### Session 2 Day Two Morning
 
