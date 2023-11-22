@@ -33,7 +33,7 @@ Chair: Niels Raes
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
 
-12:40-14:00 | **Lunch Break** 
+12:40-14:00 | **Lunch Break | Poster Session** 
 
 #### Session 2 Day One Afternoon 
 
@@ -47,7 +47,7 @@ Chair: TBC
 15:00-15:20 | **EBR 3:  New GBIF Data model** - tbd -
 15:20-15:40 | **EBR 4:  **Mapping the Research Infrastructure landscape: the role of Biodiversa+** -  Rob Hendriks - | Ministry of Agriculture, Nature and Food Quality **keynote**{:.badge .bg-danger}
 
-15:40-19:00 | **Biodiversity Market/ Reception**  <i class="fad fa-glass-cheers"></i>
+15:40-19:00 | **Biodiversity Market | Poster Session | Reception**  <i class="fad fa-glass-cheers"></i>
 
 ### Day 1: Tuesday, March 26
 
@@ -76,7 +76,7 @@ Chair: TBD
 | 12:15 - 12:30 | **ARISE Insect camera's** | tbd | tbd
 | 12:30 - 12:45 | **ARISE** | tbd | 
 
-12:45-14:00 | **Lunch Break**
+12:45-14:00 | **Lunch Break | Poster Session**
 
 #### Session 2 Day Two Afternoon
 
