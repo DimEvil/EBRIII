@@ -33,7 +33,7 @@ Chair: Niels Raes
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
 
-12:40-14:00 | **Lunch Break / Poster Session** 
+12:40-14:00 | **Lunch Break / Poster Session** <i class="fas fa-coffee"></i>
 
 #### Session 2 Day One Afternoon 
 
