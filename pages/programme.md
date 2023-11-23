@@ -79,7 +79,7 @@ Chair: TBD
 | 12:15 - 12:30 | **ARISE Insect camera's** | tbd | tbd
 | 12:30 - 12:45 | **ARISE** | tbd | 
 
-12:45-14:00 | **Lunch Break | Poster Session**
+12:45-14:00 | **Lunch Break / Poster Session** <i class="fas fa-coffee"></i> |
 
 #### Session 2 Day Two Afternoon
 
