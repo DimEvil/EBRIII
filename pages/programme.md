@@ -23,21 +23,21 @@ Chair: Niels Raes
 
 10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen **keynote**{:.badge .bg-danger}
 10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch **keynote**{:.badge .bg-danger}
-11:10-11:40 | **Coffee Break/ Poster setup** <i class="fas fa-coffee"></i>
+11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
-12:40-14:00 | **Lunch Break / Poster Session** <i class="fas fa-coffee"></i>
+12:40-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 2: Empowering Biodiversity Research
 
 Chair: TBC
 
 14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
-14:20-14:40 | **EBR 1: Building Blocks Biodiversity** - Quentin Groom (Botanic Garden Meise)
+14:20-14:40 | **EBR 1: Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
 14:40-15:00 | **EBR 2: Decolonisation** - Patrick Semal (Royal Belgian Institute for Natural Sciences) and Didier Van den Spiegel (Royal Museum for Central Africa)
-15:00-15:20 | **EBR 3: New GBIF Data model** - TBD
+15:00-15:20 | **EBR 3: New GBIF data model** - TBD
 15:20-15:40 | **EBR 4: Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
-15:40-19:00 | **Biodiversity Market / Poster Session / Reception** <i class="fa fa-coffee"></i>
+15:40-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
 
 ## Day 2: Tuesday, March 26
 
@@ -47,34 +47,28 @@ Chair: TBC
 
 Chair: TBD
 
- 9:30-9:45 | **Data4Nature/ private sector** - TBD
+ 9:30-9:45 | **Data4Nature / private sector** - TBD
  9:45-10:00 | **The GBIF ECA network** - TBD
 10:00-10:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
 
 ### Session 3.2: LifeWatch
 
-Chair: TBD
-
-10:15-10:30 | **Species Information backbone** - TBD (VLIZ)
+10:15-10:30 | **Species information backbone** - TBD (VLIZ)
 10:30-10:45 | **How changes in human-induced pressures affect ecosystems** - TBD (LifeWatch NL)
 10:45-11:00 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
 11:00-11:15 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
-11:15-11:45 | **Coffee Break** <i class="fas fa-coffee"></i> 
+11:15-11:45 | **Coffee break** <i class="fas fa-coffee"></i>
 
 ### Session 3.3: MAMBO
-
-Chair: TBD
 
 11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman
 12:00-12:15 | **Satellite/drone/LiDAR** - TBD
 
 ### Session 3.4: ARISE
 
-Chair: TBD
-
 12:15-12:30 | **ARISE Insect camera's** - TBD
 12:30-12:45 | **ARISE** - TBD
-12:45-14:00 | **Lunch Break / Poster Session** <i class="fas fa-coffee"></i>
+12:45-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 4.1: DISSCo
 
@@ -85,8 +79,6 @@ Chair: TBD
 14:30-14:45 | **Developments at federal level** - TBD
 
 ### Session 4.2: BGE
-
-Chair: TBD
 
 14:45-15:00 | **BGE** - TBD
 15:00-15:15 | **BOLD** - TBD
