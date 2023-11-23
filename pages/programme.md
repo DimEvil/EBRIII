@@ -3,112 +3,98 @@ title: Programme
 description: preliminary programme EBR
 permalink: /programme/
 background: /assets/backgrounds/banner2.png
+toc: true
 ---
-
-Here we will publish the programme.
-
-
-## Programme
 
 <style>
   .table td:first-of-type {
     width: 20%;
- }
+  }
 </style>
 
-### Day 1: Monday, March 25
+## Day 1: Monday, March 25
 
- 9:00-10:00  | Registration
- 10:00- 10:10  | Welcome
+ 9:00-10:00 | Registration
+10:00-10:10 | Welcome
 
-#### Session 1 Day One Morning
-
-**Keynotes Day One**
+### Session 1: Keynotes
 
 Chair: Niels Raes
 
 10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen **keynote**{:.badge .bg-danger}
 10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch **keynote**{:.badge .bg-danger}
-11:10-11:40 | **Coffee Break/ Poster setup**  <i class="fas fa-coffee"></i>
+11:10-11:40 | **Coffee Break/ Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
-
 12:40-14:00 | **Lunch Break / Poster Session** <i class="fas fa-coffee"></i>
 
-#### Session 2 Day One Afternoon 
-
-**Empowering Biodiversity Research presentations**
+### Session 2: Empowering Biodiversity Research
 
 Chair: TBC
 
 14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
-14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - | Botanic Garden Meise
-14:40-15:00 | **EBR 2:  Decolonisation** - Patrick Semal and Didier Van den Spiegel | Royal Belgian Institute for Natural Sciences - Royal Museum for Central Africa
-15:00-15:20 | **EBR 3:  New GBIF Data model** - tbd -
-15:20-15:40 | **EBR 4:  Mapping the Research Infrastructure landscape: the role of Biodiversa+** -  Rob Hendriks - | Ministry of Agriculture, Nature and Food Quality **keynote**{:.badge .bg-danger}
+14:20-14:40 | **EBR 1: Building Blocks Biodiversity** - Quentin Groom (Botanic Garden Meise)
+14:40-15:00 | **EBR 2: Decolonisation** - Patrick Semal (Royal Belgian Institute for Natural Sciences) and Didier Van den Spiegel (Royal Museum for Central Africa)
+15:00-15:20 | **EBR 3: New GBIF Data model** - TBD
+15:20-15:40 | **EBR 4: Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
+15:40-19:00 | **Biodiversity Market / Poster Session / Reception** <i class="fa fa-coffee"></i>
 
-15:40-19:00 | **Biodiversity Market / Poster Session / Reception**  <i class="fa fa-coffee" aria-hidden="true"></i>
+## Day 2: Tuesday, March 26
 
- |
+ 9:00-9:30 | Registration
 
-
-### Day 2: Tuesday, March 26
-
-#### Session 2 Day Two Morning
-
-**Project sessions 1**
+### Session 3.1: GBIF
 
 Chair: TBD
 
-9:00-9:30  | Registration
+ 9:30-9:45 | **Data4Nature/ private sector** - TBD
+ 9:45-10:00 | **The GBIF ECA network** - TBD
+10:00-10:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
 
-9:30-10:15 | **GBIF session**
-| 9:30 - 9:45  | **Data4Nature/ private sector** | tbd | tbd
-| 9:45 - 10:00 | **The GBIF ECA network** | tbd | tbd
-| 10:00 - 10:15 | **extended COL as GBIF backbone taxonomy** | Olaf Banki | Species2000
-10:15-11:15 | **Lifewatch session**
-| 10:15 - 10:30 | **Species Information backbone** | tbd | VLIZ
-| 10:30 - 10:45 | **How changes in human-induced pressures affect ecosystems** | tbd | Lifewatch-Nl
-| 10:45 - 11:00 | **DTO Bioflow - optimize data flows to the EU Digital Twin of the Ocean** | tbd |INBO
-| 11:00 - 11:15 | **Terrestrial ecosystem accounting with ecopatches** | Julien Radoux |UCL
+### Session 3.2: LifeWatch
 
+Chair: TBD
 
-11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i> 
+10:15-10:30 | **Species Information backbone** - TBD (VLIZ)
+10:30-10:45 | **How changes in human-induced pressures affect ecosystems** - TBD (LifeWatch NL)
+10:45-11:00 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
+11:00-11:15 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
+11:15-11:45 | **Coffee Break** <i class="fas fa-coffee"></i> 
 
+### Session 3.3: MAMBO
 
-11:45-12:15 | **MAMBO session**
-| 11:45 - 12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** | Vincent Kalkman
-| 12:00 - 12:15 | **Satellite/drone/LiDAR** | tbd |tbd
-12:15-12:45 | **ARISE session**
-| 12:15 - 12:30 | **ARISE Insect camera's** | tbd | tbd
-| 12:30 - 12:45 | **ARISE** | tbd
+Chair: TBD
 
+11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman
+12:00-12:15 | **Satellite/drone/LiDAR** - TBD
+
+### Session 3.4: ARISE
+
+Chair: TBD
+
+12:15-12:30 | **ARISE Insect camera's** - TBD
+12:30-12:45 | **ARISE** - TBD
 12:45-14:00 | **Lunch Break / Poster Session** <i class="fas fa-coffee"></i>
 
-#### Session 2 Day Two Afternoon
-
-**Project sessions 2**
+### Session 4.1: DISSCo
 
 Chair: TBD
 
-14:00-14:45 | **DiSSCo session** - TBC -
-| 14:00 - 14:15 | **DiSSCo developments at EU level** | tbd | tbd
-| 14:15 - 14:30 | **FWB and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** | tbd | tbd
-| 14:30 - 14:45 | **Developments at federal level** | tbd |tbd
+14:00-14:15 | **DiSSCo developments at EU level** - TBD
+14:15-14:30 | **FWB and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** - TBD
+14:30-14:45 | **Developments at federal level** - TBD
 
+### Session 4.2: BGE
 
-14:45-15:30 | **BGE session** - TBC -
-| 14:45 - 15:00 | **BGE** | tbd | tbd
-| 15:00 - 15:15 | **BOLD** | tbd | tbd
-| 15:15 - 15:30 | **ERGA** | tbd |tbd
+Chair: TBD
 
+14:45-15:00 | **BGE** - TBD
+15:00-15:15 | **BOLD** - TBD
+15:15-15:30 | **ERGA** - TBD
 
-15:30-16:15 | **ELIXIR session**
-| 15:30 - 15:45 | **ELIXIR** | tbd | tbd
-| 15:45 - 16:00 | **ELIXIR** | tbd | tbd
-| 16:00 - 16:15 | **ELIXIR** | tbd |tbd
+### Session 4.3: ELIXIR
 
-
+15:30-15:45 | **ELIXIR** - TBD
+15:45-16:00 | **ELIXIR** - TBD
+16:00-16:15 | **ELIXIR** - TBD
 16:15-16:30 | **Closing of the meeting**
-
-
