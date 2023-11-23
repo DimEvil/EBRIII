@@ -35,9 +35,8 @@ Please complete the submission process for each poster you would like to present
 After your poster has been accepted, please print it out (DIN A0, 841 x 1189 mm, portrait) and bring it with you to the conference.
 
 {:.text-center}
-**Deadline 2024-02-14**{:.badge .bg-danger}
 <button type="button" class="btn btn-danger btn-lg">Deadline 2024-02-14</button>
-**Deadline 2024-02-14**{:.button .btn-danger btn-lg}
+
 
 {:.text-center}
 [Submit your poster abstract](https://forms.gle/v4H9UHLpRMUAU4Y26){:.btn .btn-primary}
