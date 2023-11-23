@@ -37,6 +37,7 @@ After your poster has been accepted, please print it out (DIN A0, 841 x 1189 mm,
 {:.text-center}
 **Deadline 2024-02-14**{:.badge .bg-danger}
 <button type="button" class="btn btn-primary btn-lg">Deadline 2024-02-14</button>
+**Deadline 2024-02-14**{:.button .bg-danger}
 
 {:.text-center}
 [Submit your poster abstract](https://forms.gle/v4H9UHLpRMUAU4Y26){:.btn .btn-primary}
