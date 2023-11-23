@@ -23,6 +23,15 @@ The scope of the Poster session is:
 <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
 <label class="btn btn-outline-primary" for="btn-check-outlined">Biodiversity Informatics! & Biodiversity Research!</label>
 
+<input type="radio" class="btn-check" name="options-outlined" id="success-outlined" autocomplete="off" checked>
+<label class="btn btn-outline-success" for="success-outlined">Data driven Policy!</label>
+<input type="radio" class="btn-check" name="options-outlined" id="success-outlined" autocomplete="off" checked>
+<label class="btn btn-outline-success" for="success-outlined">Data Management! & Collection Management!</label>
+<input type="radio" class="btn-check" name="options-outlined" id="success-outlined" autocomplete="off" checked>
+<label class="btn btn-outline-success" for="success-outlined">Open Data & Open Science!</label>
+<input type="radio" class="btn-check" name="options-outlined" id="success-outlined" autocomplete="off" checked>
+<label class="btn btn-outline-success" for="success-outlined">Biodiversity Informatics! & Biodiversity Research!</label>
+
 {:.text-center}
 [Submit your poster abstract](https://forms.gle/v4H9UHLpRMUAU4Y26){:.btn .btn-primary}
 
