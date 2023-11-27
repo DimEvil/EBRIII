@@ -89,4 +89,7 @@ Chair: Frederik Leliaert
 15:30-15:45 | **ELIXIR** - TBD
 15:45-16:00 | **ELIXIR** - TBD
 16:00-16:15 | **ELIXIR** - TBD
+
+### Closing
+
 16:15-16:30 | **Closing of the meeting**
