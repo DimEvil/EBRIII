@@ -33,3 +33,7 @@ Deadline 2024-02-14
 ## Format
 
 Please complete the submission process for each poster you would like to present. After your poster has been accepted, please print it out (DIN A0, 841 x 1189 mm, portrait) and bring it with you to the conference.
+
+## Poster guidelines
+
+Poster guidelines are coming soon.
