@@ -72,7 +72,7 @@ Chair: TBD
 
 ### Session 4.1: DISSCo
 
-Chair: TBD
+Chair: Frederik Leliaert
 
 14:00-14:15 | **DiSSCo developments at EU level** - TBD
 14:15-14:30 | **FWB and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** - TBD
