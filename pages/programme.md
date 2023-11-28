@@ -21,8 +21,8 @@ toc: true
 
 Chair: Niels Raes
 
-10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen **keynote**{:.badge .bg-danger}
-10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch **keynote**{:.badge .bg-danger}
+10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen (European Comission) **keynote**{:.badge .bg-danger}
+10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch (GBIF) **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
@@ -35,7 +35,7 @@ Chair: Dimitri Brosens
 14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 14:20-14:40 | **EBR 1: Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
 14:40-15:00 | **EBR 2: Decolonisation** - Patrick Semal (Royal Belgian Institute for Natural Sciences) and Didier Van den Spiegel (Royal Museum for Central Africa)
-15:00-15:20 | **EBR 3: How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (Berkeley) & Tim Robertson (GBIF) ~remote presentation
+15:00-15:20 | **EBR 3: How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (University of Berkeley) & Tim Robertson (GBIF) ~remote presentation
 15:20-15:40 | **EBR 4: Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
 15:40-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
 
@@ -65,7 +65,7 @@ Chair: Paul Braun
 
 Chair: tbd
 
-11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman
+11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
 12:00-12:15 | **Satellite/drone/LiDAR** - TBD
 
 ### Session 3.4: ARISE
