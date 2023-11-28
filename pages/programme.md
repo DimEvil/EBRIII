@@ -30,7 +30,7 @@ Chair: Niels Raes
 
 ### Session 2: Empowering Biodiversity Research
 
-Chair: TBC
+Chair: Dimitri Brosens
 
 14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 14:20-14:40 | **EBR 1: Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
@@ -45,7 +45,7 @@ Chair: TBC
 
 ### Session 3.1: GBIF
 
-Chair: TBD
+Chair: Paul Braun
 
  9:30-9:45  | **Data4Nature / private sector** - Niels Raes (NLBIF)
  9:45-10:00 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
@@ -63,13 +63,15 @@ Chair: TBD
 
 ### Session 3.3: MAMBO
 
+Chair: tbd
+
 11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman
 12:00-12:15 | **Satellite/drone/LiDAR** - TBD
 
 ### Session 3.4: ARISE
 
-12:15-12:30 | **Recognizing all species in all loactions through DNA, sensors and AI** - Elaine van Ommen Kloeke (Naturalis)
-12:30-12:45 | **ARISE 2** - TBD
+12:15-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke (Naturalis)
+12:30-12:45 | **From sensor (insect camera) to digital identification using AI** - Elaine van Ommen Kloeke (Naturalis)
 
 
 12:45-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
