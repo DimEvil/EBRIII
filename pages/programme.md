@@ -57,6 +57,8 @@ Chair: TBD
 10:30-10:45 | **How changes in human-induced pressures affect ecosystems** - TBD (LifeWatch NL)
 10:45-11:00 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
 11:00-11:15 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
+
+
 11:15-11:45 | **Coffee break** <i class="fas fa-coffee"></i>
 
 ### Session 3.3: MAMBO
@@ -66,8 +68,10 @@ Chair: TBD
 
 ### Session 3.4: ARISE
 
-12:15-12:30 | **ARISE Insect camera's** - TBD
-12:30-12:45 | **ARISE** - TBD
+12:15-12:30 | **Recognizing all species in all loactions through DNA, sensors and AI** - Elaine van Ommen Kloeke (Naturalis)
+12:30-12:45 | **ARISE 2** - TBD
+
+
 12:45-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 4.1: DISSCo
