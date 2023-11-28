@@ -36,4 +36,5 @@ Please complete the submission process for each poster you would like to present
 
 ## Poster guidelines
 
-Poster guidelines are coming soon.
+{:.text-center}
+[Poster guidelines](https://www.biodiversity.be/EBRIII/guidelines/){:.btn .btn-info .text-light}
