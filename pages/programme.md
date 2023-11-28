@@ -35,7 +35,7 @@ Chair: TBC
 14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 14:20-14:40 | **EBR 1: Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
 14:40-15:00 | **EBR 2: Decolonisation** - Patrick Semal (Royal Belgian Institute for Natural Sciences) and Didier Van den Spiegel (Royal Museum for Central Africa)
-15:00-15:20 | **EBR 3: New GBIF data model** - TBD
+15:00-15:20 | **EBR 3: How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (Berkeley) & Tim Robertson (GBIF) ~remote presentation
 15:20-15:40 | **EBR 4: Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
 15:40-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
 
@@ -47,9 +47,9 @@ Chair: TBC
 
 Chair: TBD
 
- 9:30-9:45 | **Data4Nature / private sector** - TBD
- 9:45-10:00 | **The GBIF ECA network** - TBD
-10:00-10:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
+ 9:30-9:45  | **Data4Nature / private sector** - Niels Raes (NLBIF)
+ 9:45-10:00 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
+10:00-10:15 | **Agouti** - TBD
 
 ### Session 3.2: LifeWatch
 
