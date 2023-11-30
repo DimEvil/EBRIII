@@ -87,8 +87,8 @@ Chair: Frederik Leliaert
 ### Session 4.2: ELIXIR
 
 14:45-15:00 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele (VIB-UGent Center for Plant Systems Biology)
-15:00-15:15 | **BOLD** - TBD
-15:15-15:30 | **ERGA** - TBD
+15:00-15:15 | **ELIXIR** - TBD
+15:15-15:30 | **ELIXIR** - TBD
 
 ### Session 4.3: BGE
 
