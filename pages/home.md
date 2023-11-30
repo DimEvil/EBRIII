@@ -71,7 +71,7 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   <a href="https://biodiversitygenomics.eu/">
     <img src="{{ '/assets/logos/biodiversity-genomics.png' | relative_url }}" alt="Biodiversity Genomics Europe" width="180">
   </a>
-  <a href="http://arise-project.eu/">
+  <a href="https://www.arise-biodiversity.nl/">
     <img src="{{ '/assets/logos/arise.jpeg' | relative_url }}" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
   </a>
  </p>
