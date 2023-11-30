@@ -84,17 +84,17 @@ Chair: Frederik Leliaert
 14:15-14:30 | **FWB and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** - TBD
 14:30-14:45 | **Developments at federal level** - TBD
 
-### Session 4.2: BGE
+### Session 4.2: ELIXIR
 
-14:45-15:00 | **BGE** - TBD
+14:45-15:00 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele (VIB-UGent Center for Plant Systems Biology)
 15:00-15:15 | **BOLD** - TBD
 15:15-15:30 | **ERGA** - TBD
 
-### Session 4.3: ELIXIR
+### Session 4.3: BGE
 
-15:30-15:45 | **ELIXIR** - TBD
-15:45-16:00 | **ELIXIR** - TBD
-16:00-16:15 | **ELIXIR** - TBD
+15:30-15:45 | **BGE** - TBD
+15:45-16:00 | **BOLD** - TBD
+16:00-16:15 | **ERGA** - TBD
 
 ### Closing
 
