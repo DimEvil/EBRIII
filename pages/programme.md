@@ -81,8 +81,8 @@ Chair: tbd
 Chair: Frederik Leliaert
 
 14:00-14:15 | **DiSSCo developments at EU level** - TBD
-14:15-14:30 | **FWB and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** - TBD
-14:30-14:45 | **Developments at federal level** - TBD
+14:15-14:30 | **DiSSCo BE - Fédération Walonnie-Bruxelles and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** - TBD
+14:30-14:45 | **DiSSCo NL** - TBD
 
 ### Session 4.2: ELIXIR
 
