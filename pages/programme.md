@@ -80,7 +80,7 @@ Chair: tbd
 
 Chair: Frederik Leliaert
 
-14:00-14:15 | **DiSSCo developments at EU level ** - TBD
+14:00-14:15 | **DiSSCo developments at EU level** - TBD
 14:15-14:30 | **GBIF hosted portal approach for DiSSCo Nodes and small university collections use cases** - TBD
 14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel (RBINS & RMCA)
 
