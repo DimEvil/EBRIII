@@ -41,7 +41,7 @@ Chair: Dimitri Brosens
 15:30-15:45 | **Agouti** - TBD
 
 
-### Biodiversity market** <i class="fa fa-coffee"></i>
+### Biodiversity market <i class="fa fa-coffee"></i>
 
 15:45-16:30 | **Poster session** - TBD
 15:45-19:00 | **Reception**
