@@ -39,7 +39,12 @@ Chair: Dimitri Brosens
 15:00-15:15 | **MIRRI** - TBD
 15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD
 15:30-15:45 | **Agouti** - TBD
-15:45-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
+
+
+### Biodiversity market** <i class="fa fa-coffee"></i>
+
+15:45-16:30 | **Poster session** - TBD
+15:45-19:00 | **Reception**
 
 ## Day 2: Tuesday, March 26
 
