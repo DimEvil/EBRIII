@@ -37,7 +37,7 @@ Chair: Dimitri Brosens
 14:40-15:00 | **EBR 2: Decolonisation** - Patrick Semal (Royal Belgian Institute for Natural Sciences) and Didier Van den Spiegel (Royal Museum for Central Africa)
 15:00-15:20 | **EBR 3: How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (University of Berkeley) & Tim Robertson (GBIF) ~remote presentation
 15:20-15:40 | **EBR 4: Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
-15:40-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
+15:40-17:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
 
 ## Day 2: Tuesday, March 26
 
