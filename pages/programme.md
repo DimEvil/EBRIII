@@ -45,7 +45,7 @@ Chair: Dimitri Brosens
 
  8:45-9:00 | Registration
 
-### Session 3.1: Empoering Biodiversity Research 2
+### Session 3.1: Empowering Biodiversity Research 2
 
 Chair: Paul Braun
 
@@ -57,7 +57,7 @@ Chair: Paul Braun
 
 Chair: tbd
 
-9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
+ 9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
 10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard 
 10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye
 
