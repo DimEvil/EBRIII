@@ -90,9 +90,9 @@ Chair: Frederik Leliaert
 
 ### Session 4.3: BGE
 
-15:25-15:40 | **BGE** - TBD
-15:40-15:55 | **BOLD** - TBD
-15:55-16:10 | **ERGA** - TBD
+15:25-15:40 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni (Leibniz Institute for Zoo and Wildlife)
+15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos (Naturalis)
+15:55-16:10 | **Q&A** - TBD
 
 ### Closing
 
