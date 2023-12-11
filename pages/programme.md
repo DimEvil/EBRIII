@@ -54,7 +54,7 @@ Chair: Paul Braun
 ### Session 3.2: LifeWatch
 
 10:15-10:30 | **Species information backbone** - TBD (VLIZ)
-10:30-10:45 | **How changes in human-induced pressures affect ecosystems** - TBD (LifeWatch NL)
+10:30-10:45 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld (WUR)
 10:45-11:00 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
 11:00-11:15 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
 
