@@ -8,7 +8,7 @@ Here is the listing of workshops to be organised in connection to our conference
 
 
 ## Workshop 1: Data publishing workshop on Zenodo and GBIF
-organized by INBO
+organized by INBO (Dimitri Brosens & Lien Reyserhove)
 
 Date: June day: TBD
 Time : 9:00 am - 4:00 pm
