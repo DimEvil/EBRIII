@@ -28,53 +28,53 @@ Chair: Niels Raes
 12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
 12:40-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
-### Session 2: Empowering Biodiversity Research
+### Session 2: Empowering Biodiversity Research 1
 
 Chair: Dimitri Brosens
 
-14:00-14:10 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
+14:00-14:15 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 
-14:10-14:25 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (University of Berkeley) & Tim Robertson (GBIF) ~remote presentation
-14:40-14:55 | **Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
-15:10-15:25 | **MIRRI** - TBD
-
-15:40-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
+14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (University of Berkeley) & Tim Robertson (GBIF) ~remote presentation
+14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
+15:00-15:15 | **MIRRI** - TBD
+15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD
+15:30-15:45 | **Agouti** - TBD
+15:45-19:00 | **Biodiversity market / Poster session / Reception** <i class="fa fa-coffee"></i>
 
 ## Day 2: Tuesday, March 26
 
- 9:00-9:30 | Registration
+ 8:45-9:00 | Registration
 
-### Session 3.1: GBIF
+### Session 3.1: Empoering Biodiversity Research 2
 
 Chair: Paul Braun
 
- 9:30-9:45  | **Data4Nature / private sector** - Niels Raes (NLBIF)
- 9:45-10:00 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
-10:00-10:15 | **Agouti** - TBD
+ 9:00-9:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
+ 9:15-9:30 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes (NLBIF)
+ 9:30-9:45 | **BICKL** - TBD
 
-### Session 3.2: LifeWatch
-
-10:15-10:30 | **Species information backbone** - TBD (VLIZ)
-10:30-10:45 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld (WUR)
-10:45-11:00 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
-11:00-11:15 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
-
-
-11:15-11:45 | **Coffee break** <i class="fas fa-coffee"></i>
-
-### Session 3.3: MAMBO
+### Session 3.2: MAMBO
 
 Chair: tbd
 
-11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
-12:00-12:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard 
-12:15-12:30 | **Insect camera’s, counting insect the digital way** - Toke Høye
+9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
+10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard 
+10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye
+
+10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
+
+### Session 3.3: LifeWatch
+
+11:00-11:15 | **Species information backbone** - TBD (VLIZ)
+11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld (WUR)
+11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
+11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
 
 ### Session 3.4: ARISE
 
-12:30-12:55 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke (Naturalis)
+12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke (Naturalis)
 
-12:55-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
+12:30-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 4.1: DISSCo
 
