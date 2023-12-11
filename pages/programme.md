@@ -66,15 +66,14 @@ Chair: Paul Braun
 Chair: tbd
 
 11:45-12:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
-12:00-12:15 | **Satellite/drone/LiDAR** - TBD
+12:00-12:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard 
+12:15-12:30 | **Insect camera’s, counting insect the digital way** - Toke Høye
 
 ### Session 3.4: ARISE
 
-12:15-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke (Naturalis)
-12:30-12:45 | **From sensor (insect camera) to digital identification using AI** - Elaine van Ommen Kloeke (Naturalis)
+12:30-12:55 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke (Naturalis)
 
-
-12:45-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
+12:55-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 4.1: DISSCo
 
