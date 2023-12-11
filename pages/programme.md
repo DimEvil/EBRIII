@@ -28,7 +28,7 @@ Chair: Niels Raes
 12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
 12:40-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
-### Session 2: Empowering Biodiversity Research 1
+### Session 2: EBR 1
 
 Chair: Dimitri Brosens
 
@@ -45,7 +45,7 @@ Chair: Dimitri Brosens
 
  8:45-9:00 | Registration
 
-### Session 3.1: Empowering Biodiversity Research 2
+### Session 3.1: EBR 2
 
 Chair: Paul Braun
 
@@ -58,8 +58,8 @@ Chair: Paul Braun
 Chair: tbd
 
  9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
-10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard 
-10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye
+10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard (Centre for Ecology & Hydrology UK)
+10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye (Aarhus University DK)
 
 10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
@@ -80,9 +80,9 @@ Chair: tbd
 
 Chair: Frederik Leliaert
 
-14:00-14:15 | **DiSSCo developments at EU level** - TBD
-14:15-14:30 | **DiSSCo BE - Fédération Walonnie-Bruxelles and Flemish collections: use-cases for inventorising and digitising collections and GBIF hosted portal** - TBD
-14:30-14:45 | **DiSSCo NL** - TBD
+14:00-14:15 | **DiSSCo developments at EU level ** - TBD
+14:15-14:30 | **GBIF hosted portal approach for DiSSCo Nodes and small university collections use cases** - TBD
+14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel (RBINS & RMCA)
 
 ### Session 4.2: ELIXIR
 
