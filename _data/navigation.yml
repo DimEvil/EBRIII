@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Home
-  href: /posters/
-- text: Posters
   href: /
+- text: Posters
+  href: /posters/
 - text: Programme
   menu:
   - text: Programme
