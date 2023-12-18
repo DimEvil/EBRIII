@@ -68,7 +68,7 @@ Chair: tbd
 
 10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
-### Session 3.3: LifeWatch
+### Session 3.3: [LifeWatch](www.lifewatch.eu)
 
 11:00-11:15 | **Species information backbone** - TBD ([VLIZ](www.vliz.be))
 11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld ([WUR](www.wur.nl))
@@ -96,9 +96,9 @@ Chair: Frederik Leliaert
 
 ### Session 4.3: BGE
 
-15:25-15:40 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni (Leibniz Institute for Zoo and Wildlife)
-15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos (Naturalis)
-15:55-16:10 | **Q&A** - TBD
+15:25-15:40 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
+15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
+15:55-16:10 | **Q&A** 
 
 ### Closing
 
