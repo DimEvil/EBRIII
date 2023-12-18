@@ -21,5 +21,6 @@ If the conference is cancelled, you will be entitled of a full refund. Registrat
 **Time:**	09.00-19.00
  	
 **Organisation:**	Empowering Biodiversity Research
+
 **Email:** [EBRconference](mailto:ebrconference@naturalis.nl)
 
