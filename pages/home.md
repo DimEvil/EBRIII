@@ -8,7 +8,7 @@ permalink: /
 
 ## Connecting research to policy
 
-The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally.
+The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally. The EBR III conference is organized back to back with the [2024 ARISE](https://www.arise-biodiversity.nl/arise-day-2024) day, which will also take place in Naturalis.
 
 ![ebr1]({{ '/assets/images/ebr1.png' | relative_url }})
 
@@ -22,6 +22,13 @@ The reception is foreseen on March 25th. It will give you the perfect opportunit
 
 For more information, please contact [Dimitri Brosens](dimitri.brosens@inbo.be), GBIF node Manager at the Belgian Biodiversity Platform, [Niels Raes](niels.raes@naturalis.nl) GBIF node Manager at NLBIF/ Naturalis or [Paul Braun](paul.braun@mnhn.lu ) GBIF node manager at the Musée national d'histoire naturelle in Luxembourg.
 For the latest updates about the conference, please follow @EmpBioResearch on X/Twitter `#EBR2024`.
+
+## ARISE day
+
+March 27, just after the EBR III meeting another interesting event will take place in Naturalis. Make sure you check out the [ARISE day](https://www.arise-biodiversity.nl/) and you might want to extend your stay!
+Lots of stuff has been happening in and around Arise, and we can't wait to tell you all about it! We have more of everything: more sensors, more samples, more lab equipment, more data, more AI and, of course, more and more people working on Arise, with Arise or wanting to know more about Arise.  
+
+
 
 ## Programme
 
