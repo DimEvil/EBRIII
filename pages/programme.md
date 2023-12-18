@@ -70,14 +70,14 @@ Chair: tbd
 
 ### Session 3.3: LifeWatch
 
-11:00-11:15 | **Species information backbone** - TBD (VLIZ)
-11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld (WUR)
-11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD (INBO)
-11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux (UCL)
+11:00-11:15 | **Species information backbone** - TBD ([VLIZ](www.vliz.be))
+11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld ([WUR](www.wur.nl))
+11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD ([INBO](www.inbo.be))
+11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
 
 ### Session 3.4: ARISE
 
-12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke (Naturalis)
+12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
 
 12:30-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
@@ -87,12 +87,12 @@ Chair: Frederik Leliaert
 
 14:00-14:15 | **DiSSCo developments at EU level** - TBD
 14:15-14:30 | **GBIF hosted portal approach for DiSSCo Nodes and small university collections use cases** - TBD
-14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel (RBINS & RMCA)
+14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel ([RBINS](www.naturalsciences.be) & [RMCA](www.africamuseum.be))
 
 ### Session 4.2: ELIXIR
 
-14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele (VIB-UGent Center for Plant Systems Biology)
-15:05-15:25 | **ELIXIR** - TBD
+14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
+15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
 
 ### Session 4.3: BGE
 
