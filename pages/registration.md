@@ -10,7 +10,7 @@ The entrance fee to the conference is 50,- EUR. This includes entrance to the co
 If the conference is cancelled, you will be entitled of a full refund. Registrations are handled through Naturalis. 
 
 {:.text-center}
-[Registration](https://www.ticketkantoor.nl/shop/EBRIII){:.btn .btn-primary}
+[Registration](https://www.ticketkantoor.nl/shop/EBRIII){:.btn .btn-primary .btn-lg}
 
 **Locatie:**	Naturalis Biodiversity Center
 
