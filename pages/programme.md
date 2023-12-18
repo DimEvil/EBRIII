@@ -21,12 +21,12 @@ toc: true
 
 Chair: Niels Raes
 
-10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen ([European Comission DG-ENV](https://environment.ec.europa.eu/index_en)) **keynote**{:.badge .bg-danger}
-10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch ([GBIF](www.gbif.org)) **keynote**{:.badge .bg-danger}
+10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen (European Comission) **keynote**{:.badge .bg-danger}
+10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch (GBIF) **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land
-and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz ([LuP](https://www.lup-umwelt.de/)) **keynote**{:.badge .bg-danger}
-12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks ([Ministry of Agriculture, Nature and Food Quality](https://www.government.nl/ministries/ministry-of-agriculture-nature-and-food-quality)) **keynote**{:.badge .bg-danger}
+and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz (LuP) **keynote**{:.badge .bg-danger}
+12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
 12:40-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 2: EBR 1
