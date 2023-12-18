@@ -3,11 +3,11 @@ title: Registration
 permalink: /registration/
 ---
 
-REGISTRATIONS ARE NOT OPEN YET
+Click the REGISTRATION button to register and follow the intructions
 
 The entrance fee to the conference is 50,- EUR. This includes entrance to the conference and the Biodiversity Informatics Market, coffee breaks, lunch and reception. 
 
-If the conference is cancelled, you will be entitled of a full refund. Registrations are handled through Naturalis. 
+If the conference is cancelled, you will be entitled of a full refund. Registrations are handled through Naturalis.
 
 {:.text-center}
 [Registration](https://www.ticketkantoor.nl/shop/EBRIII){:.btn .btn-primary .btn-lg}
