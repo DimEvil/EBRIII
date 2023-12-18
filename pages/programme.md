@@ -41,7 +41,7 @@ Chair: Dimitri Brosens
 15:30-15:45 | **Agouti** - TBD - [agouti](https://www.agouti.eu/)
 
 
-### Biodiversity market <i class="fa fa-coffee"></i>
+### Biodiversity market & Reception <i class="fa fa-coffee"></i>
 
 15:45-16:30 | **Poster session** - TBD
 15:45-19:00 | **Reception**
@@ -54,17 +54,17 @@ Chair: Dimitri Brosens
 
 Chair: Paul Braun
 
- 9:00-9:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki (Species2000)
- 9:15-9:30 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes (NLBIF)
+ 9:00-9:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
+ 9:15-9:30 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
  9:30-9:45 | **BICKL** - TBD
 
 ### Session 3.2: MAMBO
 
 Chair: tbd
 
- 9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman (Naturalis)
-10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard (Centre for Ecology & Hydrology UK)
-10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye (Aarhus University DK)
+ 9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
+10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
+10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye ([Aarhus University](https://international.au.dk/))
 
 10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
