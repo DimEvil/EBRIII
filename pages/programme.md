@@ -21,12 +21,12 @@ toc: true
 
 Chair: Niels Raes
 
-10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen (European Comission) **keynote**{:.badge .bg-danger}
-10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch (GBIF) **keynote**{:.badge .bg-danger}
+10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen ([European Comission DG-ENV](https://environment.ec.europa.eu/index_en)) **keynote**{:.badge .bg-danger}
+10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch ([GBIF](www.gbif.org)) **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land
-and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz (LuP) **keynote**{:.badge .bg-danger}
-12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks (Ministry of Agriculture, Nature and Food Quality) **keynote**{:.badge .bg-danger}
+and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz ([LuP](https://www.lup-umwelt.de/)) **keynote**{:.badge .bg-danger}
+12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks ([Ministry of Agriculture, Nature and Food Quality](https://www.government.nl/ministries/ministry-of-agriculture-nature-and-food-quality)) **keynote**{:.badge .bg-danger}
 12:40-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 2: EBR 1
@@ -35,9 +35,9 @@ Chair: Dimitri Brosens
 
 14:00-14:15 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 
-14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (University of Berkeley) & Tim Robertson (GBIF) ~remote presentation
+14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek (University of Berkeley) & Tim Robertson ([GBIF](www.gbif.org)) ~remote presentation
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom (Botanic Garden Meise)
-15:00-15:15 | **MIRRI** - TBD
+15:00-15:15 | **MIRRI: microbial resources and biodiversity** - Ana Portugal Melo (MIRRI-Eric)
 15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD
 15:30-15:45 | **Agouti** - TBD
 
