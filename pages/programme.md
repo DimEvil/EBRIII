@@ -22,7 +22,7 @@ toc: true
 Chair: Niels Raes
 
 10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen ([European Comission DG-ENV](https://environment.ec.europa.eu/index_en)) **keynote**{:.badge .bg-danger} |
-10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch ([GBIF](www.gbif.org)) **keynote**{:.badge .bg-danger}
+10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch ([GBIF](https://www.gbif.org)) **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz ([LuP](https://www.lup-umwelt.de/)) **keynote**{:.badge .bg-danger}
 12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks ([Ministry of Agriculture, Nature and Food Quality](https://www.government.nl/ministries/ministry-of-agriculture-nature-and-food-quality)) **keynote**{:.badge .bg-danger}
@@ -34,10 +34,10 @@ Chair: Dimitri Brosens
 
 14:00-14:15 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 
-14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](www.gbif.org)) ~remote presentation
+14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Botanic Garden Meise](https://www.plantentuinmeise.be/en))
 15:00-15:15 | **MIRRI: microbial resources and biodiversity** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
-15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD ([GBIF](www.gbif.org))
+15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD ([GBIF](https://www.gbif.org))
 15:30-15:45 | **Agouti** - TBD - [agouti](https://www.agouti.eu/)
 
 
@@ -68,11 +68,11 @@ Chair: tbd
 
 10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
-### Session 3.3: [LifeWatch](www.lifewatch.eu)
+### Session 3.3: [LifeWatch](https://www.lifewatch.eu)
 
 11:00-11:15 | **Species information backbone** - TBD ([VLIZ](www.vliz.be))
-11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld ([WUR](www.wur.nl))
-11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD ([INBO](www.inbo.be))
+11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld ([WUR](https://www.wur.nl))
+11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD ([INBO](https://www.inbo.be))
 11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
 
 ### Session 3.4: ARISE
@@ -87,7 +87,7 @@ Chair: Frederik Leliaert
 
 14:00-14:15 | **DiSSCo developments at EU level** - TBD
 14:15-14:30 | **GBIF hosted portal approach for DiSSCo Nodes and small university collections use cases** - TBD
-14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel ([RBINS](www.naturalsciences.be) & [RMCA](www.africamuseum.be))
+14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel ([RBINS](https://www.naturalsciences.be) & [RMCA](https://www.africamuseum.be))
 
 ### Session 4.2: ELIXIR
 
