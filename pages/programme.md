@@ -36,7 +36,7 @@ Chair: Dimitri Brosens
 
 14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Botanic Garden Meise](https://www.plantentuinmeise.be/en))
-15:00-15:15 | **MIRRI: microbial resources and biodiversity** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
+15:00-15:15 | **MIRRI-ERIC: taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
 15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD ([GBIF](https://www.gbif.org))
 15:30-15:45 | **Agouti** - TBD - [agouti](https://www.agouti.eu/)
 
