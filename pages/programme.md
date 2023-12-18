@@ -91,8 +91,8 @@ Chair: Frederik Leliaert
 
 ### Session 4.2: [ELIXIR](https://elixir-europe.org/)
 
-14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
-15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
+14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
+15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
 
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
