@@ -38,7 +38,7 @@ Chair: Dimitri Brosens
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
 15:00-15:15 | **MIRRI-ERIC: taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
 15:15-15:30 | **The GBIF Europe and Central Asia ACE network** - TBD ([GBIF](https://www.gbif.org))
-15:30-15:45 | **Agouti** - TBD - [agouti](https://www.agouti.eu/)
+15:30-15:45 | **Agouti** - speaker TBD - [agouti](https://www.agouti.eu/)
 
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
