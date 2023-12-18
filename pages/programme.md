@@ -54,7 +54,7 @@ Chair: Dimitri Brosens
 
 Chair: Paul Braun
 
- 9:00-9:15 | **extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
+ 9:00-9:15 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
  9:15-9:30 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
  9:30-9:45 | **BICKL** - TBD
 
