@@ -58,7 +58,7 @@ Chair: Paul Braun
  9:15-9:30 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
  9:30-9:45 | **BICKL** - TBD
 
-### Session 3.2: MAMBO
+### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
 Chair: tbd
 
@@ -75,13 +75,13 @@ Chair: tbd
 11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD ([INBO](https://www.inbo.be))
 11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
 
-### Session 3.4: ARISE
+### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)
 
 12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
 
 12:30-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
-### Session 4.1: DISSCo
+### Session 4.1: [DISSCo](https://www.dissco.eu/)
 
 Chair: Frederik Leliaert
 
@@ -89,12 +89,12 @@ Chair: Frederik Leliaert
 14:15-14:30 | **GBIF hosted portal approach for DiSSCo Nodes and small university collections use cases** - TBD
 14:30-14:45 | **Decolonisation - CANATHIST** - Patrick Semal and Didier Van den Spiegel ([RBINS](https://www.naturalsciences.be) & [RMCA](https://www.africamuseum.be))
 
-### Session 4.2: ELIXIR
+### Session 4.2: [ELIXIR](https://elixir-europe.org/)
 
 14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
 15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
 
-### Session 4.3: BGE
+### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
 15:25-15:40 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
 15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
