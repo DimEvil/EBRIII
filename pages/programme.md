@@ -62,7 +62,7 @@ Chair: Paul Braun
 
 Chair: tbd
 
- 9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
+ 9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
 10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
 10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye ([Aarhus University](https://international.au.dk/))
 
@@ -77,7 +77,7 @@ Chair: tbd
 
 ### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)
 
-12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
+12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
 
 12:30-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
@@ -85,7 +85,7 @@ Chair: tbd
 
 Chair: Frederik Leliaert
 
-14:00-14:15 | **DiSSCo - The European perspective.** - Wouter Addinck ([Naturalis](https://www.naturalis.nl/en/science/dissco))
+14:00-14:15 | **DiSSCo - The European perspective.** - Wouter Addinck ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/dissco))
 14:15-14:30 | **CANATHIST (Decolonisation) & DiSSCo FED : contributions to DiSSCo.eu** - Patrick Semal ([RBINS](https://www.naturalsciences.be))
 14:30-14:45 | **GBIF hosted portals for DiSSCo nodes, and university collections use cases.** - Maarten Trekels ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
 
@@ -97,7 +97,7 @@ Chair: Frederik Leliaert
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
 15:25-15:40 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
-15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
+15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis Biodiversity Center](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
 15:55-16:10 | **Q&A** 
 
 ### Closing
