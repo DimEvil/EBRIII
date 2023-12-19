@@ -1,9 +1,8 @@
 ---
-layout: home
 title: Abstracts
 description: EBR Abstracts
 background: /assets/backgrounds/banner2.png
-permalink: /Abstracts/
+permalink: /abstracts/
 ---
 
 # Keynotes
@@ -21,5 +20,3 @@ Priorities identified so far are: to help enhance the findability and (free) ava
 research infrastructures and of long term commitments.
 
 In early 2025 a follow up dialogue event with research infrastructures is foreseen which will feed the mid-term update of the Strategic Research and Innovation Agenda (SRIA) of Biodiversa+.
-
-
