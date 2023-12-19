@@ -8,7 +8,7 @@ permalink: /
 
 ## Connecting research to policy
 
-The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis Biodiversity Center, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally. The EBR III conference is organized back to back with the [2024 ARISE](https://www.arise-biodiversity.nl/arise-day-2024) day, which will also take place in Naturalis.
+The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis Biodiversity Center, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally. The EBR III conference is organized back to back with the [2024 ARISE](https://www.arise-biodiversity.nl/arise-day-2024) day, which will also take place in Naturalis Biodiversity Center.
 
 ![ebr1]({{ '/assets/images/ebr1.png' | relative_url }})
 
