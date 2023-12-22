@@ -13,13 +13,13 @@ Price for a twin room is €139,- inc. breakfast buffet but exc. €3,50 tourist
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.visitleiden.nl/nl/locaties/3858932145/ibis-leiden-centre">
-    <img src="{{ '/assets/images/ibishotel1.png' | relative_url }}" alt="Ibis Leiden" width="180">
+    <img src="{{ '/assets/images/ibishotel1.PNG' | relative_url }}" alt="Ibis Leiden" width="180">
   </a>
   <a href="https://www.visitleiden.nl/nl/locaties/3858932145/ibis-leiden-centre">
-    <img src="{{ '/assets/images/ibishotel2.png' | relative_url }}" alt="Ibis Leiden" width="180">
+    <img src="{{ '/assets/images/ibishotel2.PNG' | relative_url }}" alt="Ibis Leiden" width="180">
   </a>
   <a href="https://www.visitleiden.nl/nl/locaties/3858932145/ibis-leiden-centre">
-    <img src="{{ '/assets/images/ibishotel3.png' | relative_url }}" alt="Ibis Leiden" width="180">
+    <img src="{{ '/assets/images/ibishotel3.PNG' | relative_url }}" alt="Ibis Leiden" width="180">
   </a>
 </p>
 
