@@ -71,7 +71,7 @@ Chair: tbd
 ### Session 3.3: [LifeWatch](https://www.lifewatch.eu)
 
 11:00-11:15 | **Species information backbone** - TBD ([VLIZ](www.vliz.be))
-11:15-11:30 | **How changes in human-induced pressures affect ecosystems** - Geerten Hengeveld ([WUR](https://www.wur.nl))
+11:15-11:30 | **LTER-LIFE: Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))
 11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD ([INBO](https://www.inbo.be))
 11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
 
