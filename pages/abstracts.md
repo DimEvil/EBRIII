@@ -8,7 +8,7 @@ permalink: /abstracts/
 ## Keynotes
 
 ### **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds**
-#### **Natasja Scholz** 
+#### Natasja Scholz 
 
 
 The ambition of BirdWatch, a Horizon Europe project, is to improve farmland bird habitats in the agricultural landscape of the EU. It puts its focus especially on agri-environmental policies,
@@ -27,7 +27,7 @@ At the end of the project phase, BirdWatch will make this service available via 
 extension of the service to more EU Member States is of great interest to the project partners.
 
 ### **Mapping RI landscape: the role of Biodiversa+** 
-#### **Rob Hendriks**
+#### Rob Hendriks
 
 Biodiversa+, the European Biodiversity Partnership, aims at increasing the use of Research Infrastructures. In 2022-2023 a survey was conducted and a dialogue meeting held. 
 This resulted in a report offering recommendations on how Biodiversa+ can facilitate the use of research infrastructures by biodiversity researchers. A brief presentation of 
