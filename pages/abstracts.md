@@ -5,10 +5,10 @@ background: /assets/backgrounds/banner2.png
 permalink: /abstracts/
 ---
 
-# Keynotes
+## Keynotes
 
-## **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds**
-### **Natasja Scholz** 
+### **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds**
+#### **Natasja Scholz** 
 
 
 The ambition of BirdWatch, a Horizon Europe project, is to improve farmland bird habitats in the agricultural landscape of the EU. It puts its focus especially on agri-environmental policies,
@@ -26,8 +26,8 @@ adjusted.
 At the end of the project phase, BirdWatch will make this service available via a web-based application in all its test regions, i.e., in Flanders, Germany, Lithuania and South Tyrol, and an
 extension of the service to more EU Member States is of great interest to the project partners.
 
-## **Mapping RI landscape: the role of Biodiversa+** 
-### **Rob Hendriks**
+### **Mapping RI landscape: the role of Biodiversa+** 
+#### **Rob Hendriks**
 
 Biodiversa+, the European Biodiversity Partnership, aims at increasing the use of Research Infrastructures. In 2022-2023 a survey was conducted and a dialogue meeting held. 
 This resulted in a report offering recommendations on how Biodiversa+ can facilitate the use of research infrastructures by biodiversity researchers. A brief presentation of 
@@ -38,3 +38,17 @@ Priorities identified so far are: to help enhance the findability and (free) ava
 research infrastructures and of long term commitments.
 
 In early 2025 a follow up dialogue event with research infrastructures is foreseen which will feed the mid-term update of the Strategic Research and Innovation Agenda (SRIA) of Biodiversa+.
+
+## Presentations
+
+### **Building Digital twins: from data pipeline to ecosystem insights**
+#### Geerten M. Hengeveld, Ioannis Athanasiadis, Elisabeth S. Bakker, W. Daniel Kissling, Katja Philippart, Astrid Souren, Karline Soetaert, Zhiming Zhao, Cherine Jantzen, Qing Zhang, Stefan Vriend &amp; Marcel E. Visser; NIOO-KNAW &amp; LTER-LIFE
+
+Digital twins are dynamic model-data fusion tools that can help revolutionize ecological research. But what does a digital twin of an ecosystem look like, and how would you build one? The LTER-LIFE
+infrastructure (www.lter-life.nl) started in 2023 to address these questions and – in doing so –build an infrastructure that allows ecologists to create digital twins for their own research. We illustrate the
+concept of digital twins, and the infrastructural needs to flexibly assemble them, using two proto-DTs – workflows that have characteristics of full digital twins but are still in their developmental stages. The
+first proto-DT builds upon the well-established relationship between tree phenology and temperature at the Veluwe, whilst the second provides a near-continuous view on primary production in the Wadden
+Sea. These proto-DTs illustrate how Digital Twins can be used to gain insights into the functioning of ecosystems. We highlight pros and cons of different approaches, discuss tools currently available and
+identify the gaps in the infrastructure needed for digital twinning.
+
+
