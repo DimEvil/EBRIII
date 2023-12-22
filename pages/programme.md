@@ -85,7 +85,7 @@ Chair: tbd
 
 Chair: Frederik Leliaert
 
-14:00-14:15 | **DiSSCo - The European perspective.** - Wouter Addinck ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/dissco))
+14:00-14:15 | **DiSSCo - European & technical perspective** - Wouter Addinck ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/dissco))
 14:15-14:30 | **CANATHIST (Decolonisation) & DiSSCo FED : contributions to DiSSCo.eu** - Patrick Semal ([RBINS](https://www.naturalsciences.be))
 14:30-14:45 | **GBIF hosted portals for DiSSCo nodes, and university collections use cases.** - Maarten Trekels ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
 
