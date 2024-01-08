@@ -48,15 +48,15 @@ Chair: Dimitri Brosens
 
 ## Day 2: Tuesday, March 26
 
- 8:45-9:00 | Registration
+ 8:45-8:55 | Registration
 
 ### Session 3.1: EBR 2
 
 Chair: Paul Braun
 
- 9:00-9:15 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
- 9:15-9:30 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
- 9:30-9:45 | **BICKL & TETTRIS** - TBD
+ 8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
+ 9:10-9:35 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
+ 9:35-9:45 | **BICKL & TETTRIS** - TBD
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
