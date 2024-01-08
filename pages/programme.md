@@ -44,7 +44,7 @@ Chair: Dimitri Brosens
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
 
 15:45-16:30 | **Poster session** - TBD
-15:45-19:00 | **Reception**
+15:45-18:00 | **Reception**
 
 ## Day 2: Tuesday, March 26
 
