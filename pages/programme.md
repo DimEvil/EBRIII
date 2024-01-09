@@ -56,7 +56,7 @@ Chair: Paul Braun
 
  8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
  9:10-9:35 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
- 9:35-9:45 | **BICKL & TETTRIS** - TBD
+ 9:35-9:45 | **BiCIKL & TETTRIS** - TBD
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
