@@ -40,4 +40,4 @@ Please complete the submission process for each poster you would like to present
 [Poster guidelines](https://www.biodiversity.be/EBRIII/guidelines/){:.btn .btn-info .text-light}
 
 ## Contact
-For any inquieries about the posters contact [Frederik Leliaert](mailto:frederik.leliaert@plantentuinmeise.be) or [Julian Wittische](Julian.WITTISCHE@mnhn.lu)
+For any inquieries about the posters contact [Frederik Leliaert](mailto:frederik.leliaert@plantentuinmeise.be) or [Julian Wittische](mailto:Julian.WITTISCHE@mnhn.lu)
