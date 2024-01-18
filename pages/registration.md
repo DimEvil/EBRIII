@@ -1,6 +1,6 @@
 ---
 title: Registration
-description: REGISTRATION DEADLINE: FEBRUARY 23th 2024
+description: REGISTRATION DEADLINE FEBRUARY 23th 2024
 permalink: /registration/
 ---
 
