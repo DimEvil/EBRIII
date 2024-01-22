@@ -40,6 +40,7 @@ Register [here]({{ '/registration/' | relative_url }})
 
 The registration fee is set to 50 €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
 You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
+**Deadline for Registration: February 23th**
 
 ## Call for posters
 
