@@ -4,7 +4,7 @@ description: Workshops and post-conference programme
 permalink: /workshops/
 ---
 
-Here is the listing of workshops to be organised in connection to our conference. More information will be gradually added on these workshops.
+Here is the listing of workshops to be organised in connection to our conference. More information will be gradually added on these workshops. Workshops are organized by the EBR III organizing partners. 
 
 
 ## Workshop 1: Data publishing workshop on Zenodo and GBIF
@@ -13,9 +13,29 @@ organized by INBO (Dimitri Brosens & Lien Reyserhove)
 Date: June day: TBD
 Time : 9:00 am - 4:00 pm
 Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room TBC
-Number of participants :  max 20
+Number of participants:  max 20
 Cost: FREE
 Lunch offered
 Registration: 
+
+
+## Workshop 2: NLBIF Data Mobilization workshop
+organized by NLBIF (Niels Raes & Jeroen Creuwels)
+
+A day’s practical workshop on how to publish your biodiversity data via GBIF. Everyday a million new records are published at GBIF. In this workshop we see how we can attribute to get more biodiversity available. For this we will use the NLBIF-IPT and the biodiversity data standard DarwinCore.
+
+In the morning we discuss the minimum requirements that the data must meet, and which metadata are required that describe the dataset. We will also show how to transform your data in the right format and how to overcome the obstacles with more complicated datasets. Finally, we show the options and benefits when the data is published at GBIF.
+
+In the afternoon we will work with concrete datasets that participants bring along. Aided by a newly-written manual for this workshop, we try to get datasets actually published with GBIF by the end of the day.
+
+Date: TBD
+Time: TBD
+Location: Naturalis Biodiversity Center
+Number of participants: max TBD
+Cost: TBD
+Lunch: TBD
+Registration:
+
+
 
 
