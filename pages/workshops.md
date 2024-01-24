@@ -10,6 +10,8 @@ Here is the listing of workshops to be organised in connection to our conference
 ## Workshop 1: Data publishing workshop on Zenodo and GBIF
 organized by INBO (Dimitri Brosens & Lien Reyserhove)
 
+This one day workshop focuses on optimizing data visibility through either Zenodo or the Global Biodiversity Information Facility (GBIF). Participants will delve into the features of Zenodo for seamless dataset sharing and discover the steps to publish datasets effectively on GBIF. Through hands-on exercises, attendees will gain practical skills to enhance the reach and impact of their research, aligning with the principles of open science and collaborative data dissemination.
+
 Date: June day: TBD <br/>
 Time : 9:00 am - 4:00 pm <br />
 Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room TBC <br />
