@@ -10,13 +10,13 @@ Here is the listing of workshops to be organised in connection to our conference
 ## Workshop 1: Data publishing workshop on Zenodo and GBIF
 organized by INBO (Dimitri Brosens & Lien Reyserhove)
 
-Date: June day: TBD
-Time : 9:00 am - 4:00 pm
-Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room TBC
-Number of participants:  max 20
-Cost: FREE
-Lunch offered
-Registration: 
+Date: June day: TBD <br/>
+Time : 9:00 am - 4:00 pm <br />
+Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room TBC <br />
+Number of participants:  max 20 <br />
+Cost: FREE <br />
+Lunch offered <br />
+Registration: <br />
 
 
 ## Workshop 2: NLBIF Data Mobilization workshop
@@ -28,13 +28,13 @@ In the morning we discuss the minimum requirements that the data must meet, and 
 
 In the afternoon we will work with concrete datasets that participants bring along. Aided by a newly-written manual for this workshop, we try to get datasets actually published with GBIF by the end of the day.
 
-Date: TBD
-Time: TBD
-Location: Naturalis Biodiversity Center
-Number of participants: max TBD
-Cost: TBD
-Lunch: TBD
-Registration:
+Date: TBD <br />
+Time: TBD <br />
+Location: Naturalis Biodiversity Center <br />
+Number of participants: max TBD <br />
+Cost: TBD <br />
+Lunch: TBD <br />
+Registration: <br />
 
 
 
