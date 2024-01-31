@@ -50,15 +50,14 @@ The first proto-DT builds upon the well-established relationship between tree ph
 Sea. These proto-DTs illustrate how Digital Twins can be used to gain insights into the functioning of ecosystems. We highlight pros and cons of different approaches, discuss tools currently available and
 identify the gaps in the infrastructure needed for digital twinning.
 
-### TETTRIs -  a community response for the betterment of taxonomy
+### **TETTRIs -  a community response for the betterment of taxonomy**
 #### Alessandro Marchi
 
 TETTRIs (Transforming European Taxonomy through Training, Research and Innovations) is a Horizon EU-funded project born from the European Taxonomy community gathered around CETAF. It runs until 2026, and it's conceived to develop innovative engagement methods and technical solutions for taxonomists. One unique mechanism to establish positive change in the community are Third-Party Projects.  
 These projects applied for a cascading grant within TETTRIs. 12 projects across Europe received a total of 1.8 million Euros. Topics include opening access to reference collections, validation of  novel tool as well as citizen science monitoring of hotspots. 
 The outcomes of TETTRIs are important to the transformation of taxonomy research and will be fundamental to increasing awareness about this science.
 
-### The BiCIKL project traverses obstacles to FAIR and linked biodiversity data usage
-
+### **The BiCIKL project traverses obstacles to FAIR and linked biodiversity data usage**
 #### Lyubomir Penev, Iva Boyadzhieva and the BiCIKL consortium
 
 Started in May 2021, the Horizon 2020 project Biodiversity Community Integrated Knowledge Library (BiCIKL) brought together 14 partners and 15 research infrastructures  from 10 European countries, representing some of the world’s key players in biodiversity research and data management.  
