@@ -37,14 +37,14 @@ Chair: Dimitri Brosens
 14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
 15:00-15:15 | **MIRRI-ERIC: taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
-15:15-15:30 | **The GBIF Europe and Central Asia ECA network** - TBD ([GBIF](https://www.gbif.org))
+15:15-15:30 | **eDNA** - Florian Leese ([UNI-DUE](https://www.uni-due.de/))
 15:30-15:45 | **Agouti** - speaker TBD - [agouti](https://www.agouti.eu/)
 
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
 
 15:45-16:30 | **Poster session** - TBD
-15:45-19:00 | **Reception**
+15:45-18:00 | **Reception**
 
 ## Day 2: Tuesday, March 26
 
@@ -55,8 +55,9 @@ Chair: Dimitri Brosens
 Chair: Paul Braun
 
  8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
- 9:10-9:35 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
- 9:35-9:45 | **BICKL & TETTRIS** - TBD
+ 9:10-9:25 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
+ 9:25-9:35 | **BiCIKL** - Lyubomir Penev [Pensoft](https://pensoft.net/)
+ 9:35-9:45 | **TETTRIS** - Alessandro Marchi ([RBINS](https://www.naturalsciences.be))
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
@@ -70,9 +71,9 @@ Chair: tbd
 
 ### Session 3.3: [LifeWatch](https://www.lifewatch.eu)
 
-11:00-11:15 | **Species information backbone** - TBD ([VLIZ](www.vliz.be))
+11:00-11:15 | **Species information backbone** - Stefanie Dekeyser ([VLIZ](www.vliz.be))
 11:15-11:30 | **LTER-LIFE: Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))
-11:30-11:45 | **DTO Bioflow-optimize data flows to the EU Digital Twin of the Ocean** - TBD ([INBO](https://www.inbo.be))
+11:30-11:45 | **Integration of biodiversity monitoring data into the Digital Twin Ocean (DTO-BioFlow)** -  Carlota Muñiz [VLIZ](https://www.vliz.be))
 11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
 
 ### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)

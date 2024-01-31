@@ -25,7 +25,7 @@ For the latest updates about the conference, please follow @EmpBioResearch on X/
 
 ## ARISE day
 
-March 27, just after the EBR III meeting another interesting event will take place in Naturalis. Make sure you check out the [ARISE day](https://www.arise-biodiversity.nl/) and you might want to extend your stay!
+March 27, just after the EBR III meeting another interesting event will take place in Naturalis. Make sure you check out the [ARISE day](https://www.arise-biodiversity.nl/arise-day-2024) and you might want to extend your stay!
 Lots of stuff has been happening in and around Arise, and we can't wait to tell you all about it! We have more of everything: more sensors, more samples, more lab equipment, more data, more AI and, of course, more and more people working on Arise, with Arise or wanting to know more about Arise.  
 
 
@@ -40,6 +40,7 @@ Register [here]({{ '/registration/' | relative_url }})
 
 The registration fee is set to 50 €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
 You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
+**Deadline for Registration: February 23th**
 
 ## Call for posters
 
