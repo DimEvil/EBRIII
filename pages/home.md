@@ -111,7 +111,7 @@ Empowering Biodiversity Research III could never be organised without the suppor
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">  
-  <a href="https://https://www.catalogueoflife.org/">
+  <a href="https://www.catalogueoflife.org/">
     <img src="{{ '/assets/logos/col.png' | relative_url }}" alt="Catalogue of Life" width="180">
   </a>
   <a href="https://https://www.checklistbank.org/">
