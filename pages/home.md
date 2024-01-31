@@ -110,3 +110,11 @@ Empowering Biodiversity Research III could never be organised without the suppor
     <img src="{{ '/assets/logos/naturalis.png' | relative_url }}" alt="Naturalis Biodiversity Center" width="180">
   </a>
 </p>
+<p class="d-flex justify-content-around align-items-center">  
+  <a href="https://https://www.catalogueoflife.org/">
+    <img src="{{ '/assets/logos/col.png' | relative_url }}" alt="Catalogue of Life" width="180">
+  </a>
+  <a href="https://https://www.checklistbank.org/">
+    <img src="{{ '/assets/logos/checklistbank.png' | relative_url }}" alt="Checklistbank" width="180">
+  </a>
+</p>
