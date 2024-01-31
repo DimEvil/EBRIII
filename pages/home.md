@@ -12,7 +12,7 @@ The Benelux Biodiversity Informatics community and partners are pleased to invit
 
 ![ebr1]({{ '/assets/images/ebr1.png' | relative_url }})
 
-In 2024, we are taking a significant leap forward. Our primary focus will be on effectively **utilizing biodiversity data to bridge the gap with Policy**. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of keynotes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.
+In 2024, we are taking a significant leap forward. Our primary focus will be on effectively **utilizing biodiversity data to bridge the gap with Policy**. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, Catalogue of Life and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of keynotes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.
 
 Rest assured, your experience will surpass all expectations. 
 
