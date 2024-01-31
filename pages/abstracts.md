@@ -14,15 +14,15 @@ permalink: /abstracts/
 The ambition of BirdWatch, a Horizon Europe project, is to improve farmland bird habitats in the agricultural landscape of the EU. It puts its focus especially on agri-environmental policies,
 including the eco schemes of the current Common Agricultural Policy, including on their effectiveness, impact and consistency with bird species-specific habitat requirements.
 In practice, BirdWatch uses Earth Observation data from the EU’s Copernicus program to assess agricultural areas with respect to their farmland bird habitat suitability and to identify options for
-appropriate measures.  <br>
+appropriate measures.  
 In order to assess the habitat suitability of the agricultural landscape, BirdWatch quantifies which essential environmental parameters are present on agricultural land and which are missing. This
 information subsequently flows into habitat models, which return the suitability of the habitat and thereby state how likely it is that a piece of farmland could be used as a habitat by a particular
-farmland bird species.  <br>
+farmland bird species.  
 In order to facilitate the selection the agri-environmental measures, appropriate with respect to the local context, and to ensure that the selected measure does not conflict with habitat
 requirements or indeed support bird species with opposing habitat preferences, BirdWatch established spatial optimization models. These models can take into account both the habitat
 requirements and the economic and operational constraints of the farmers and landowners, who carry out the measures.
 Due to the high temporal resolution of the Copernicus satellite data, the impact of agro- environmental measures can be evaluated and the specific measure can then, if necessary, be
-adjusted.  <br>
+adjusted.  
 At the end of the project phase, BirdWatch will make this service available via a web-based application in all its test regions, i.e., in Flanders, Germany, Lithuania and South Tyrol, and an
 extension of the service to more EU Member States is of great interest to the project partners.
 
