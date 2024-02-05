@@ -61,7 +61,7 @@ Chair: Paul Braun
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
-Chair: tbd
+Chair: Vincent Kalkman
 
  9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
 10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
@@ -70,6 +70,8 @@ Chair: tbd
 10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
 ### Session 3.3: [LifeWatch](https://www.lifewatch.eu)
+
+Chair: Julien Radoux
 
 11:00-11:15 | **Species information backbone** - Stefanie Dekeyser ([VLIZ](www.vliz.be))
 11:15-11:30 | **LTER-LIFE: Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))
@@ -91,6 +93,8 @@ Chair: Frederik Leliaert
 14:30-14:45 | **GBIF hosted portals for DiSSCo nodes, and university collections use cases.** - Maarten Trekels ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
 
 ### Session 4.2: [ELIXIR](https://elixir-europe.org/)
+
+Chair: Gabriela Dankova
 
 14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
 15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
