@@ -56,8 +56,8 @@ Chair: Paul Braun
 
  8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
  9:10-9:25 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
- 9:25-9:35 | **BiCIKL** - Lyubomir Penev ([Pensoft](https://pensoft.net/))
- 9:35-9:45 | **TETTRIS** - Alessandro Marchi ([RBINS](https://www.naturalsciences.be))
+ 9:25-9:35 | **The [BiCIKL](https://www.biodiversity.be/EBRIII/abstracts/#lyubomir-penev-iva-boyadzhieva-and-the-bicikl-consortium) project traverses obstacles to FAIR and linked biodiversity data usage** - Iva Boyadzhieva ([Pensoft](https://pensoft.net/))
+ 9:35-9:45 | **[TETTRIs](https://www.biodiversity.be/EBRIII/abstracts/#the-bicikl-project-traverses-obstacles-to-fair-and-linked-biodiversity-data-usage) - a community response for the betterment of taxonomy** - Alessandro Marchi ([RBINS](https://www.naturalsciences.be))
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
