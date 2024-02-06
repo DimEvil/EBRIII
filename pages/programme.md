@@ -24,8 +24,8 @@ Chair: Niels Raes
 10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legisation** - Frank Vassen ([European Comission DG-ENV](https://environment.ec.europa.eu/index_en)) **keynote**{:.badge .bg-danger} |
 10:40-11:10 | **GBIF’s role in empowering biodiversity research and policy** - Tim Hirsch ([GBIF](https://www.gbif.org)) **keynote**{:.badge .bg-danger}
 11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
-11:40-12:10 | **BirdWatch – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz ([LuP](https://www.lup-umwelt.de/)) **keynote**{:.badge .bg-danger}
-12:10-12:40 | **Mapping the Research Infrastructure landscape: the role of Biodiversa+** - Rob Hendriks ([Ministry of Agriculture, Nature and Food Quality](https://www.government.nl/ministries/ministry-of-agriculture-nature-and-food-quality)) **keynote**{:.badge .bg-danger}
+11:40-12:10 | **[BirdWatch](https://www.biodiversity.be/EBRIII/abstracts/#birdwatch--a-satellite-supported-service-to-monitor-the-habitat-suitability-of-agricultural-land-and-to-evaluate-the-impact-of-agri-environmental-policies-on-farmland-birds) – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz ([LuP](https://www.lup-umwelt.de/)) **keynote**{:.badge .bg-danger}
+12:10-12:40 | **[Mapping the Research Infrastructure landscape: the role of Biodiversa+](https://www.biodiversity.be/EBRIII/abstracts/#mapping-ri-landscape-the-role-of-biodiversa)** - Rob Hendriks ([Ministry of Agriculture, Nature and Food Quality](https://www.government.nl/ministries/ministry-of-agriculture-nature-and-food-quality)) **keynote**{:.badge .bg-danger}
 12:40-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 2: EBR 1
@@ -56,12 +56,12 @@ Chair: Paul Braun
 
  8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
  9:10-9:25 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
- 9:25-9:35 | **BiCIKL** - Lyubomir Penev [Pensoft](https://pensoft.net/)
- 9:35-9:45 | **TETTRIS** - Alessandro Marchi ([RBINS](https://www.naturalsciences.be))
+ 9:25-9:35 | **The [BiCIKL](https://www.biodiversity.be/EBRIII/abstracts/#lyubomir-penev-iva-boyadzhieva-and-the-bicikl-consortium) project traverses obstacles to FAIR and linked biodiversity data usage** - Iva Boyadzhieva ([Pensoft](https://pensoft.net/))
+ 9:35-9:45 | **[TETTRIs](https://www.biodiversity.be/EBRIII/abstracts/#the-bicikl-project-traverses-obstacles-to-fair-and-linked-biodiversity-data-usage) - a community response for the betterment of taxonomy** - Alessandro Marchi ([RBINS](https://www.naturalsciences.be))
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
-Chair: tbd
+Chair: Vincent Kalkman
 
  9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
 10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
@@ -71,10 +71,14 @@ Chair: tbd
 
 ### Session 3.3: [LifeWatch](https://www.lifewatch.eu)
 
+Chair: Julien Radoux
+
 11:00-11:15 | **Species information backbone** - Stefanie Dekeyser ([VLIZ](www.vliz.be))
-11:15-11:30 | **LTER-LIFE: Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))
+11:15-11:30 | **[LTER-LIFE](https://www.biodiversity.be/EBRIII/abstracts/#building-digital-twins-from-data-pipeline-to-ecosystem-insights): Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))
 11:30-11:45 | **Integration of biodiversity monitoring data into the Digital Twin Ocean (DTO-BioFlow)** -  Carlota Muñiz [VLIZ](https://www.vliz.be))
 11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
+
+Chair: Julien Radoux
 
 ### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)
 
@@ -92,8 +96,12 @@ Chair: Frederik Leliaert
 
 ### Session 4.2: [ELIXIR](https://elixir-europe.org/)
 
+Chair: Gabriela Dankova
+
 14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
 15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
+
+Chair: Gabriela Dankova
 
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
