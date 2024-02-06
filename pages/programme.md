@@ -78,6 +78,8 @@ Chair: Julien Radoux
 11:30-11:45 | **Integration of biodiversity monitoring data into the Digital Twin Ocean (DTO-BioFlow)** -  Carlota Muñiz [VLIZ](https://www.vliz.be))
 11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
 
+Chair: Julien Radoux
+
 ### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)
 
 12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
@@ -98,6 +100,8 @@ Chair: Gabriela Dankova
 
 14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
 15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
+
+Chair: Gabriela Dankova
 
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
