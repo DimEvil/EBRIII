@@ -114,6 +114,9 @@ Empowering Biodiversity Research III could never be organised without the suppor
   <a href="https://www.catalogueoflife.org/">
     <img src="{{ '/assets/logos/col.png' | relative_url }}" alt="Catalogue of Life" width="180">
   </a>
+  <a href="https://www.pensoft.net/">
+    <img src="{{ '/assets/logos/pensoft.png' | relative_url }}" alt="Pensoft publishers" width="180">
+  </a>
   <a href="https://https://www.checklistbank.org/">
     <img src="{{ '/assets/logos/checklistbank.png' | relative_url }}" alt="Checklistbank" width="180">
   </a>
