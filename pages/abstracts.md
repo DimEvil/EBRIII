@@ -78,7 +78,7 @@ In its early operational phase, MIRRI-ERIC undertook a comprehensive review of i
 Empowerment; and Leveraging, align closely with the objectives outlined in European Union Biodiversity Strategy for 2030 and the European Commission&#39;s Open Science Policy. <br>
 Concurrently, MIRRI-ERIC leads the Microbes4Climate Horizon Europe (HE) project, in collaboration with other Research Infrastructures (RIs) such as AnaEE-ERIC, LifeWatch ERIC, ELIXIR, and EMPHASIS. This initiative, launched in February, aims to provide
 researchers worldwide, including those focused on biodiversity, with streamlined access to a suite of integrated services, in harmony with the European Green Deal and the Digital Single Market Strategy. <br>
-Furthermore, MIRRI-ERIC plays a pivotal role in various Horizon Europe projects, showcasing the richness of its culture collection catalog and associated data, in line with European initiatives promoting biodiversity research and conservation.
+Furthermore, MIRRI-ERIC plays a pivotal role in various Horizon Europe projects, showcasing the richness of its culture collection catalog and associated data, in line with European initiatives promoting biodiversity research and conservation. <br>
 Internally, MIRRI-ERIC is committed to enhancing its informatics infrastructure and data management capabilities, ensuring that biodiversity data associated with its culture collections adhere to FAIR principles—findable, accessible, interoperable, and reusable.
 These efforts are in lockstep with the European Union&#39;s Digital Agenda and the European Strategy for Data, fostering innovation and knowledge exchange while safeguarding biodiversity for future generations.
 
