@@ -69,5 +69,19 @@ In practicality, the BKH is a one-stop portal for understanding the complex but 
 At the core of the BKH is the FAIR Data Place (FDP), where users can familiarise themselves with each of the participating biodiversity infrastructures and network organisations, and also learn about the specific services they provide. There, users can explore various biodiversity data tools and services by browsing by their main data type, e.g. specimens, sequences, taxon names, literature.  
 The BKH serves as a navigation system in a universe of interconnected biodiversity research infrastructures and is open to new contributors and collaborators enabling the access of open data and knowledge by anybody, anywhere, at any time.
 
+### **Unlocking the Hidden Treasure: MIRRI-ERIC&#39;s Role in Facilitating Access to Culture Collection Data**
+#### Ana Portugal Melo
+
+Microbial Resource Research Infrastructure - MIRRI-ERIC, recognized as an ESFRI Landmark, serves as a linchpin for advancing Bioscience and Bioindustry endeavors, offering a centralized platform for accessing diverse high-quality bioresources and associated data in full compliance with European-level data policies. Supported by a global network of microbial research centers and experts, MIRRI-ERIC fosters collaboration aimed at safeguarding microbial biodiversity, driving scientific inquiry, and nurturing professional development within the field.
+Formally designated as an ESFRI Landmark in June 2022, MIRRI-ERIC was established as a legal entity in Portugal, headquartered at the University of Minho, Braga, in May 2023, and commenced operations in September of the same year. Presently, MIRRI- ERIC boasts a membership comprising five Member States: Belgium, France, Latvia, Portugal, and Spain, with Romania serving as an Observer, demonstrating its alignment with European policies on collaboration and resource-sharing.
+In its early operational phase, MIRRI-ERIC undertook a comprehensive review of its strategic objectives for the 2024-2028 period, anchored in European biodiversity and data policies. These objectives centered on Consolidation and Growth; Strengthening;
+Empowerment; and Leveraging, align closely with the objectives outlined in European Union Biodiversity Strategy for 2030 and the European Commission&#39;s Open Science Policy.
+Concurrently, MIRRI-ERIC leads the Microbes4Climate Horizon Europe (HE) project, in collaboration with other Research Infrastructures (RIs) such as AnaEE-ERIC, LifeWatch ERIC, ELIXIR, and EMPHASIS. This initiative, launched in February, aims to provide
+researchers worldwide, including those focused on biodiversity, with streamlined access to a suite of integrated services, in harmony with the European Green Deal and the Digital Single Market Strategy.
+Furthermore, MIRRI-ERIC plays a pivotal role in various Horizon Europe projects, showcasing the richness of its culture collection catalog and associated data, in line with European initiatives promoting biodiversity research and conservation.
+Internally, MIRRI-ERIC is committed to enhancing its informatics infrastructure and data management capabilities, ensuring that biodiversity data associated with its culture collections adhere to FAIR principles—findable, accessible, interoperable, and reusable.
+These efforts are in lockstep with the European Union&#39;s Digital Agenda and the European Strategy for Data, fostering innovation and knowledge exchange while safeguarding biodiversity for future generations.
+
+
 
 
