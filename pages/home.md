@@ -40,7 +40,14 @@ Register [here]({{ '/registration/' | relative_url }})
 
 The registration fee is set to 50 €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
 You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
-**Deadline for Registration: February 23th**
+**Old Deadline for Registration: February 23th**
+
+**New deadline for Registration: March 10**
+
+{:.text-center}
+[Registration](https://www.ticketkantoor.nl/shop/EBRIII){:.btn .btn-primary .btn-lg}
+
+
 
 ## Call for posters
 
