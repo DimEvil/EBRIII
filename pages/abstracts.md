@@ -40,6 +40,13 @@ research infrastructures and of long term commitments.
 
 In early 2025 a follow up dialogue event with research infrastructures is foreseen which will feed the mid-term update of the Strategic Research and Innovation Agenda (SRIA) of Biodiversa+.
 
+
+### **GBIF’s role in empowering biodiversity research and policy** 
+#### Tim Hirsch
+
+GBIF recently highlighted a significant milestone with the publication of the 10,000th peer-reviewed research study citing substantive use of the global infrastructure as a source of data within its methodology. The GBIF Secretariat has invested considerable effort and human resources in tracking, analysing and communicating research citations for over a decade, recognizing this as an essential means of demonstrating the importance and value of the global collaboration, especially to research funders. An economic valuation of the GBIF infrastructure has demonstrated that the availability of biodiversity data through the GBIF platform saved researchers an average of 64 hours for each published study, compared with the time required to obtain such data from multiple sources – and that around half of studies would have been impossible without GBIF. Such analysis enables numerical values to be placed on the minimal direct value of GBIF for individual countries, when average time saved is applied to national researcher costs and multiplied by the number of GBIF-enabled studies per country. Demonstrating GBIF’s value to policy and decisions can be much more challenging, as the role of primary data in supporting the information and advice used directly by governments and businesses can often get lost in the data value chain – for example as a foundation for species Red List assessments, conservation planning tools, biodiversity indicators and impact metrics for business. This talk will outline how GBIF is engaging with global policy audiences to communicate the critical importance of the GBIF network and infrastructure to underpin processes such as the Kunming-Montreal Global Biodiversity Framework, the Sustainable Development Goals, the UNESCO Open Science Recommendation and, in collaboration with OBIS, the UN Decade on Ocean Science.
+
+
 ## Presentations
 
 ### **Building Digital twins: from data pipeline to ecosystem insights**
