@@ -32,13 +32,13 @@ This one day workshop focuses on optimizing data visibility through either Zenod
 
 The workshop underscores the principles of open science and collaborative data dissemination, positioning itself as a foundational experience for researchers new to data publication on both Zenodo and/or GBIF.
 
-Date: June day: TBD <br/>
-Time : 9:00 am - 4:00 pm <br />
-Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room TBC <br />
-Number of participants:  max 20 <br />
+Date: June 7th <br/>
+Time : 9:00 am - 5:00 pm <br />
+Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room 00.48 Keldermans <br />
+Number of participants:  max 15 <br />
 Cost: FREE <br />
-Lunch offered <br />
-Registration: <br />
+Lunch offered: yes <br />
+Registration: [Here](https://docs.google.com/forms/d/e/1FAIpQLSc_nTEK1JygIdF2uFUUV1fHUak0RhEcJQKpGb-ebasXckhf3Q/viewform?usp=sf_link)<br />
 
 
 ## Workshop 3: NLBIF Data Mobilization workshop
