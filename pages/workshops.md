@@ -2,7 +2,14 @@
 title: Workshops
 description: Workshops and post-conference programme
 permalink: /workshops/
+toc: true
 ---
+
+<style>
+  .table td:first-of-type {
+    width: 20%;
+  }
+</style>
 
 Here is the listing of workshops to be organised in connection to our conference. More information will be gradually added on these workshops. Workshops are organized by the EBR III organizing partners. 
 
