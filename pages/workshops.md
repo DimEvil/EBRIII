@@ -60,7 +60,7 @@ Registration: <br />
 
 
 ## Workshop 4: GRSciColl & Scientific Collections Description workshop
-Organized by the Belgian Biodiversity Platform
+Organized by the [Belgian Biodiversity Platform](www.biodiversity.be)
 
 A pragmatic workshop on how to optimize the registry of scientific collections. It’s ideal for representatives from relevant institutions who have a broad overview of their collections. We’re aiming to enhance the organization of institutional collections, largely within the Global Registry of Scientific Collections (GRSciColl) through the GBIF Registry. Together, we'll stepwise explore the workflow to consistently enter or improve collection metadata, aligning with CETAF-DiSSCo guidelines and Latimer Core. Participants will have the opportunity to adjust data fields, ensuring interoperability and alignment with data standards. If your institution has already published data on GBIF, this workshop will provide valuable insights into refining your collections’ visibility and specimen-related data aggregation. Our main objective is to facilitate the GRSciColl for all institutions in Belgium with a focus on fine-tuning collection entries.
 
@@ -71,4 +71,32 @@ Number of participants: max 15 <br/>
 Cost: TBD <br/>
 Lunch: TBD <br/>
 Registration: <br/>
+
+## Workshop 5: Introduction to Git & GitHub
+Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/)
+
+This workshop will take you through the basic use of Git and GitHub. Git is a free and open source distributed version-control system designed to maintain code, track changes, recover old versions and collaborate with other developers. We start from zero and take you through a journey (note that if you already use Git, this workshop will be too basic for you). We'll explore Git on the command-line and its interaction with GitHub.
+ 
+You will learn how to working locally, checking the history of your versions as much as collaborate with other people in your project.
+ 
+Date: May 16-17 <br/>
+Time : 9:30 am - 5:00 pm <br/>
+Location : Technologiepark-Zwijnaarde 75, FSVM II building, 9052 Ghent, Belgium. <br/>
+Number of participants: max 25 <br/>
+Cost: 83 € General admission, 496 € Industry <br/>
+Lunch offered: yes <br/>
+Registration: [register here](https://training.vib.be/all-trainings/introduction-git-github-9) <br/>
+
+## Workshop 6: Docker and Singularity (Apptainer) for reproducible and automated data analysis
+Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) 
+ 
+The course will give an introduction to containers (Docker & Singularity) which are great components to achieve portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers. After an extensive explanation on Docker containers, Singularity (Apptainer) will be highlighted as well.
+
+Date: April 15-16 <br/>
+Time : 9:30 am - 5:00 pm <br/>
+Location : Technologiepark-Zwijnaarde 75, FSVM II building, 9052 Ghent, Belgium. <br/>
+Number of participants: max 25 <br/>
+Cost: 83 € General admission, 496 € Industry <br/>
+Lunch offered: yes <br/>
+Registration: [register here](https://training.vib.be/all-trainings/docker-and-singularity-apptainer-reproducible-and-automated-data-analysis-0) <br/>
 
