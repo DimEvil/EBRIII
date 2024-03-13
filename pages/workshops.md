@@ -73,12 +73,15 @@ Lunch: TBD <br/>
 Registration: <br/>
 
 ## Workshop 5: Introduction to Git & GitHub
-Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/)
+Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) (Alexander Botzki & Bruna Piereck)
 
 This workshop will take you through the basic use of Git and GitHub. Git is a free and open source distributed version-control system designed to maintain code, track changes, recover old versions and collaborate with other developers. We start from zero and take you through a journey (note that if you already use Git, this workshop will be too basic for you). We'll explore Git on the command-line and its interaction with GitHub.
  
 You will learn how to working locally, checking the history of your versions as much as collaborate with other people in your project.
- 
+
+*Required skills*
+IMPORTANT! Some basic knowledge of the command-line is STRONGLY advised for this course ([e.g. this tutorial](https://www.youtube.com/watch?v=5XgBd6rjuDQ&ab_channel=JesseShowalter)).
+
 Date: May 16-17 <br/>
 Time : 9:30 am - 5:00 pm <br/>
 Location : Technologiepark-Zwijnaarde 75, FSVM II building, 9052 Ghent, Belgium. <br/>
@@ -88,9 +91,13 @@ Lunch offered: yes <br/>
 Registration: [register here](https://training.vib.be/all-trainings/introduction-git-github-9) <br/>
 
 ## Workshop 6: Docker and Singularity (Apptainer) for reproducible and automated data analysis
-Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) 
+Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) (Alexander Botzki & Bruna Piereck)
  
 The course will give an introduction to containers (Docker & Singularity) which are great components to achieve portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers. After an extensive explanation on Docker containers, Singularity (Apptainer) will be highlighted as well.
+
+*Required skills*
+You're familiar with doing bioinformatics on the command-line. 
+
 
 Date: April 15-16 <br/>
 Time : 9:30 am - 5:00 pm <br/>
