@@ -32,7 +32,7 @@ Chair: Niels Raes
 
 Chair: Dimitri Brosens
 
-14:00-14:15 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
+14:00-14:15 | **Information Session on Workshops** - Dimitri Brosens **workshops**{:.badge .bg-info text-dark}
 
 14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
