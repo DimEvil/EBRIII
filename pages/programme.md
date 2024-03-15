@@ -38,7 +38,7 @@ Chair: Dimitri Brosens
 14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
 15:00-15:15 | **[MIRRI-ERIC:](https://www.biodiversity.be/EBRIII/abstracts/#unlocking-the-hidden-treasure-mirri-erics-role-in-facilitating-access-to-culture-collection-data) taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
 15:15-15:30 | **Large-scale biodiversity assessment with eDNA and the trouble of entropy: ways forward** - Florian Leese ([UNI-DUE](https://www.uni-due.de/)) ~remote presentation
-15:30-15:45 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Jim Casaer - [agouti](https://www.agouti.eu/)
+15:30-15:45 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Martijn Bollen - [agouti](https://www.agouti.eu/)
 
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
