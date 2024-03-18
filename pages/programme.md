@@ -35,15 +35,15 @@ Chair: Dimitri Brosens
 14:00-14:15 | **Information Session on Workshops** - Dimitri Brosens **workshops**{:.badge .bg-info text-dark}
 
 14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation
-14:45-15:00 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
-15:00-15:15 | **[MIRRI-ERIC:](https://www.biodiversity.be/EBRIII/abstracts/#unlocking-the-hidden-treasure-mirri-erics-role-in-facilitating-access-to-culture-collection-data) taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
-15:15-15:30 | **Large-scale biodiversity assessment with eDNA and the trouble of entropy: ways forward** - Florian Leese ([UNI-DUE](https://www.uni-due.de/)) ~remote presentation
-15:30-15:45 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Martijn Bollen - [agouti](https://www.agouti.eu/)
+14:30-14:45 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
+14:45-15:00 | **[MIRRI-ERIC:](https://www.biodiversity.be/EBRIII/abstracts/#unlocking-the-hidden-treasure-mirri-erics-role-in-facilitating-access-to-culture-collection-data) taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
+15:00-15:15 | **Large-scale biodiversity assessment with eDNA and the trouble of entropy: ways forward** - Florian Leese ([UNI-DUE](https://www.uni-due.de/)) ~remote presentation
+15:15-15:30 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Martijn Bollen - [agouti](https://www.agouti.eu/)
 
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
 
-15:45-16:30 | **Poster session** 
+15:30-16:30 | **Poster session** 
 15:45-18:00 | **Reception**
 
 ## Day 2: Tuesday, March 26
