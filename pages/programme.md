@@ -39,11 +39,11 @@ Chair: Dimitri Brosens
 14:45-15:00 | **[MIRRI-ERIC:](https://www.biodiversity.be/EBRIII/abstracts/#unlocking-the-hidden-treasure-mirri-erics-role-in-facilitating-access-to-culture-collection-data) taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
 15:00-15:15 | **Large-scale biodiversity assessment with eDNA and the trouble of entropy: ways forward** - Florian Leese ([UNI-DUE](https://www.uni-due.de/)) ~remote presentation
 15:15-15:30 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Martijn Bollen - [agouti](https://www.agouti.eu/)
-
+15:30-15:40 | **wrap up plenary day one, introduction to the market, poster session and reception** Dimitri Brosens
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
 
-15:30-16:30 | **Poster session** 
+15:40-16:30 | **Poster session** 
 15:45-18:00 | **Reception**
 
 ## Day 2: Tuesday, March 26
