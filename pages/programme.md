@@ -82,9 +82,9 @@ Chair: Julien Radoux
 
 ### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)
 
-12:00-12:30 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
+12:05-12:35 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
 
-12:30-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
+12:35-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
 ### Session 4.1: [DISSCo](https://www.dissco.eu/)
 
@@ -98,17 +98,19 @@ Chair: Frederik Leliaert
 
 Chair: Gabriela Dankova
 
-14:45-15:05 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
-15:05-15:25 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
+14:50-15:10 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
+15:10-15:30 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
 
 Chair: Gabriela Dankova
 
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
-15:25-15:40 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
-15:40-15:55 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis Biodiversity Center](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
-15:55-16:10 | **Q&A** 
+15:30-15:50 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
+15:50-16:05 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis Biodiversity Center](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
+16:05-16:20 | **Q&A** 
 
 ### Closing
 
-16:10-16:25 | **Closing of the meeting**
+16:20-16:35 | **Closing of the meeting**
+
+### Drinks and snacks in the foyer
