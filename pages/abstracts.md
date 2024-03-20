@@ -91,23 +91,9 @@ These efforts are in lockstep with the European Union&#39;s Digital Agenda and t
 
 
 ### **The LifeWatch Species Information Backbone**
-#### Stefanie Dekeyzer~1~, Leen Vandepitte1, WoRMS Data Management Team1, EurOBIS Data Management Team1, Marine Regions Data Management Team1, Lennert Schepers1
-*1: Flanders Marine Institute (VLIZ), InnovOcean Site, Wandelaarkaai 7, 8400 Oostende, Belgium, stefanie.dekeyzer@vliz.be*
+#### Stefanie Dekeyzer, Leen Vandepitte, WoRMS Data Management Team, EurOBIS Data Management Team, Marine Regions Data Management Team, Lennert Schepers 
 
-The Flanders Marine Institute (VLIZ) set up the LifeWatch Species Information Backbone (LW-SIBb),
-strengthening the LifeWatch ERIC with core biodiversity services and databases. Within the LW-SIBb,
-information from 5 different domains is (virtually) linked: (1) taxonomy [regional, national, global and
-thematic databases], (2) biogeography [species occurrences], (3) ecology, [species-specific traits and
-attributes], (4) genetics and (5) literature.
-Major components of the LW-SIBb are a.o. the World Register of Marine Species (WoRMS), the
-European node of the Ocean Biodiversity Information System (EurOBIS) and the Marine Regions
-gazetteer. These systems have a strong link and collaboration agreements with several international
+The Flanders Marine Institute (VLIZ) set up the LifeWatch Species Information Backbone (LW-SIBb), strengthening the LifeWatch ERIC with core biodiversity services and databases. Within the LW-SIBb, information from 5 different domains is (virtually) linked: (1) taxonomy [regional, national, global and thematic databases], (2) biogeography [species occurrences], (3) ecology, [species-specific traits and attributes], (4) genetics and (5) literature. Major components of the LW-SIBb are a.o. the World Register of Marine Species (WoRMS), the European node of the Ocean Biodiversity Information System (EurOBIS) and the Marine Regions gazetteer. These systems have a strong link and collaboration agreements with several international
 initiatives and ESFRIs.
-The LW-SIBb offers a wide variety of tools, functionalities and data services enabling users to have free
-and easy access to data and information from a variety of resources, to standardize and quality control
-their data, and to cross-check and link with other data available.
-Users of the LW-SIBb consist of all four pillars of the quadruple helix (science – industry – policy – civil
-society). During this presentation we will have a closer look at how policy-related actions such as the
-World Ocean Assessment, Marine Heritage Sites and State of the Ocean make use of the LifeWatch
-Species Information Backbone.
+The LW-SIBb offers a wide variety of tools, functionalities and data services enabling users to have free and easy access to data and information from a variety of resources, to standardize and quality control their data, and to cross-check and link with other data available. Users of the LW-SIBb consist of all four pillars of the quadruple helix (science – industry – policy – civil society). During this presentation we will have a closer look at how policy-related actions such as the World Ocean Assessment, Marine Heritage Sites and State of the Ocean make use of the LifeWatch Species Information Backbone.
 
