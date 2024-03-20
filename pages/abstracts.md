@@ -60,7 +60,7 @@ Sea. These proto-DTs illustrate how Digital Twins can be used to gain insights i
 identify the gaps in the infrastructure needed for digital twinning.
 
 ### **TETTRIs -  a community response for the betterment of taxonomy**
-#### Alessandro Marchi
+#### Marta León Monedero
 
 TETTRIs (Transforming European Taxonomy through Training, Research and Innovations) is a Horizon EU-funded project born from the European Taxonomy community gathered around CETAF. It runs until 2026, and it's conceived to develop innovative engagement methods and technical solutions for taxonomists. One unique mechanism to establish positive change in the community are Third-Party Projects.  
 These projects applied for a cascading grant within TETTRIs. 12 projects across Europe received a total of 1.8 million Euros. Topics include opening access to reference collections, validation of  novel tool as well as citizen science monitoring of hotspots. 
