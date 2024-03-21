@@ -14,7 +14,7 @@ toc: true
 Here is the listing of workshops to be organised in connection to our conference. More information will be gradually added on these workshops. Workshops are organized by the EBR III organizing partners. 
 
 ## Workshop 1: Hacking biodiversity data cubes for policy
-organized by Building BLocks for Biodiversity
+organized by Building Blocks for Biodiversity
 
 B-Cubed’s hackathon is planned as a 4-day event, bringing together biodiversity informaticians, researchers, and practitioners who are passionate about leveraging biodiversity data for impactful solutions. Our common goal is to standardise biodiversity data in order to enhance efficiency and accessibility. The main idea is to experiment with data cubes and channel creativity into innovative solutions for a variety of biodiversity challenges.
 
