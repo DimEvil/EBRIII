@@ -71,13 +71,13 @@ Organized by the [Belgian Biodiversity Platform](www.biodiversity.be)
 
 A pragmatic workshop on how to optimize the registry of scientific collections. It’s ideal for representatives from relevant institutions who have a broad overview of their collections. We’re aiming to enhance the organization of institutional collections, largely within the Global Registry of Scientific Collections (GRSciColl) through the GBIF Registry. Together, we'll stepwise explore the workflow to consistently enter or improve collection metadata, aligning with CETAF-DiSSCo guidelines and Latimer Core. Participants will have the opportunity to adjust data fields, ensuring interoperability and alignment with data standards. If your institution has already published data on GBIF, this workshop will provide valuable insights into refining your collections’ visibility and specimen-related data aggregation. Our main objective is to facilitate the GRSciColl for all institutions in Belgium with a focus on fine-tuning collection entries.
 
-Date: TBD <br/>
-Time: TBD <br/>
-Location: RBINS <br/>
+Date: September 18th  <br/>
+Time: 9:30 am - 16:30 pm<br/>
+Location: RBINS, Brussels <br/>
 Number of participants: max 15 <br/>
-Cost: TBD <br/>
-Lunch: TBD <br/>
-Registration: <br/>
+Cost: Free <br/>
+Lunch: Included <br/>
+Registration: [here](https://forms.gle/HNVWTdxLRWvL6hSr6) <br/>
 
 ## Workshop 5: Introduction to Git & GitHub
 Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) (Alexander Botzki & Bruna Piereck)
