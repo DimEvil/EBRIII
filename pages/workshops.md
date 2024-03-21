@@ -57,13 +57,13 @@ In the morning we discuss the minimum requirements that the data must meet, and 
 
 In the afternoon we will work with concrete datasets that participants bring along. Aided by a newly-written manual for this workshop, we try to get datasets actually published with GBIF by the end of the day.
 
-Date: TBD <br />
-Time: TBD <br />
+Date: Fall 2024 <br />
+Time: 1 day <br />
 Location: Naturalis Biodiversity Center <br />
-Number of participants: max TBD <br />
-Cost: TBD <br />
-Lunch: TBD <br />
-Registration: <br />
+Number of participants: max 20 <br />
+Cost: Feee to attend <br />
+Lunch: At own cost <br />
+Registration: Not available yet<br />
 
 
 ## Workshop 4: GRSciColl & Scientific Collections Description workshop
