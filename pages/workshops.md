@@ -73,7 +73,7 @@ A pragmatic workshop on how to optimize the registry of scientific collections. 
 
 Date: September 18th  <br/>
 Time: 10:00 am - 16:30 pm<br/>
-Location: RBINS, Brussels <br/>
+Location: RBINS, Institute of Natural Sciences, Brussels <br/>
 Number of participants: max 15 <br/>
 Cost: Free <br/>
 Lunch: Included <br/>
