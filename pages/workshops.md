@@ -114,3 +114,17 @@ Cost: 83 € General admission, 496 € Industry <br/>
 Lunch offered: yes <br/>
 Registration: [register here](https://training.vib.be/all-trainings/docker-and-singularity-apptainer-reproducible-and-automated-data-analysis-0) <br/>
 
+
+## Workshop 7: Introducing the Observation.org platform to Luxembourg
+Organized by: [National Museum of Natural History Luxembourg](https://www.mnhn.lu/)
+
+To enrich the suite of tools dedicated to documenting and disseminating knowledge about Luxembourg's biodiversity, the MNHNL has partnered with the Observation.org network, becoming a national node for the Luxembourg biodiversity community. <br/>
+This workshop is designed to acquaint the national community of naturalists and biodiversity professionals with Observation.org, a versatile tool tailored for field-based biodiversity data recording. With a focus on its applicability for monitoring, specific project needs, and its advanced features relative to other citizen science applications, participants will gain comprehensive insight into its capabilities.
+The workshop will comprise both theoretical and practical segments. The theoretical session will delve into the functionalities of Observation.org and its accompanying apps, while the practical session will offer hands-on experience in the field. Additionally, the workshop seeks to gather feedback from the community regarding their requirements for an occurrence recording tool.
+
+Date: Fall 2024 <br/>
+Time: 1 day <br/>
+Location: Luxembourg City <br/>
+Number of participants: max 20 <br/>
+Registration: Not available yet <br/>
+
