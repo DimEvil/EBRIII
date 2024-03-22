@@ -105,7 +105,7 @@ Chair: Gabriela Dankova
 
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
-15:30-15:50 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camilla Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
+15:30-15:50 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camila Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
 15:50-16:05 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis Biodiversity Center](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
 16:05-16:20 | **Q&A** 
 
