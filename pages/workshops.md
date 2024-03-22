@@ -25,7 +25,8 @@ More information: [B cubed hackaton](https://b-cubed.eu/b-cubed-hackathon)
 
 Date: April 2-5 <br/>
 Time : 8:00 am - 5:00 pm <br />
-Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel Room: room TBC <br />
+Location :  VAC Herman Teirlinck; Havenlaan 88, 1000 Brussel <br />
+Room: room TBC <br />
 Number of participants:  max 100 <br />
 Cost: 60 € General admission, 12 € Student rate, 12 € Virtual registration  <br />
 Lunch offered: yes <br />
