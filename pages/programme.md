@@ -63,11 +63,11 @@ Chair: Paul Braun
 
 Chair: Vincent Kalkman
 
- 9:45-10:00 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
-10:00-10:15 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
-10:15-10:30 | **Insect camera’s, counting insect the digital way** - Toke Høye ([Aarhus University](https://international.au.dk/))
+ 9:50-10:05 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
+10:05-10:20 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
+10:20-10:35 | **Insect camera’s, counting insect the digital way** - Toke Høye ([Aarhus University](https://international.au.dk/))
 
-10:30-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
+10:35-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
 ### Session 3.3: [LifeWatch](https://www.lifewatch.eu)
 
