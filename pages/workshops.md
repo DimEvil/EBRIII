@@ -78,7 +78,7 @@ Location: RBINS, Institute of Natural Sciences, Brussels <br/>
 Number of participants: max 15 <br/>
 Cost: Free <br/>
 Lunch: Included <br/>
-Registration: [here](https://forms.gle/HNVWTdxLRWvL6hSr6) <br/>
+Registration: [Here](https://forms.gle/HNVWTdxLRWvL6hSr6) <br/>
 
 ## Workshop 5: Introduction to Git & GitHub
 Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) (Alexander Botzki & Bruna Piereck)
@@ -96,7 +96,7 @@ Location : Technologiepark-Zwijnaarde 75, FSVM II building, 9052 Ghent, Belgium.
 Number of participants: max 25 <br/>
 Cost: 83 € General admission, 496 € Industry <br/>
 Lunch offered: yes <br/>
-Registration: [register here](https://training.vib.be/all-trainings/introduction-git-github-9) <br/>
+Registration: [Here](https://training.vib.be/all-trainings/introduction-git-github-9) <br/>
 
 ## Workshop 6: Docker and Singularity (Apptainer) for reproducible and automated data analysis
 Organized by [VIB](https://vib.be/en#/) and [ELXIR Belgium](https://www.elixir-belgium.org/) (Alexander Botzki & Bruna Piereck)
@@ -113,7 +113,7 @@ Location : Technologiepark-Zwijnaarde 75, FSVM II building, 9052 Ghent, Belgium.
 Number of participants: max 25 <br/>
 Cost: 83 € General admission, 496 € Industry <br/>
 Lunch offered: yes <br/>
-Registration: [register here](https://training.vib.be/all-trainings/docker-and-singularity-apptainer-reproducible-and-automated-data-analysis-0) <br/>
+Registration: [Here](https://training.vib.be/all-trainings/docker-and-singularity-apptainer-reproducible-and-automated-data-analysis-0) <br/>
 
 
 ## Workshop 7: Introducing the Observation.org platform to Luxembourg
