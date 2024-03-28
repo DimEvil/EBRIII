@@ -9,6 +9,8 @@ permalink: /next/
 
 ![ebr1](https://drive.google.com/file/d/1d7nwfS8HyXxR4fePK1sD81p09DlUEmkp/view?usp=sharing)
 
+![ebr1]({{ '/assets/images/EBRIII_1.jpg' | relative_url }})
+
 We want to thank you again for your participation in the Empowering Biodiversity Research III Conference. Your presence significantly contributed to the success of EBR III, and we hope you found it as enjoyable as we did.
 
 Throughout the conference, we explored critical topics related to biodiversity research, including data standards, tools, and international initiatives and their relation to policy. Your insights and engagement were invaluable, and we appreciate your commitment to advancing our field.
