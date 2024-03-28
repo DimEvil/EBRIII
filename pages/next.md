@@ -7,7 +7,6 @@ permalink: /next/
 
 ## Thank you for attending EBR III
 
-![ebr1](https://drive.google.com/file/d/1d7nwfS8HyXxR4fePK1sD81p09DlUEmkp/view?usp=sharing)
 
 ![ebr1]({{ '/assets/images/EBRIII_1.jpg' | relative_url }})
 
