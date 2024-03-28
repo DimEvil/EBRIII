@@ -7,7 +7,7 @@ permalink: /next/
 
 ## Thank you for attending EBR III
 
-![](https://drive.google.com/file/d/1d7nwfS8HyXxR4fePK1sD81p09DlUEmkp/view?usp=sharing)
+![ebr1](https://drive.google.com/file/d/1d7nwfS8HyXxR4fePK1sD81p09DlUEmkp/view?usp=sharing)
 
 We want to thank you again for your participation in the Empowering Biodiversity Research III Conference. Your presence significantly contributed to the success of EBR III, and we hope you found it as enjoyable as we did.
 
