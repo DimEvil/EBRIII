@@ -28,10 +28,14 @@ Once again, thank you for being an integral part of EBR III. Your contributions 
 
 We will place a link for an evaluation survey here shortly
 
-### community on Zenodo
+### Community on Zenodo
 
 Poster abstracts and abstracts will be uploaded to our EBR [Zenodo community](https://zenodo.org/communities/empoweringbiodiversityresearch/records?q=&l=list&p=1&s=10&sort=newest)
 
 ## Pictures of the conference
 
 Here you will find the public pictures of EBR III
+
+## Make the presentations available
+
+We will make all the presentations available shortly
