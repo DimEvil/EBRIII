@@ -5,13 +5,16 @@ background: /assets/images/ebrmarket1.png
 permalink: /next/
 ---
 
-# Thank you for attending EBR III
+## Thank you for attending EBR III
 
-We want to express our sincere gratitude for your participation in the Empowering Biodiversity Research III Conference. Your presence significantly contributed to the success of the event, and we hope you found it as enjoyable as we did.
+![](https://drive.google.com/file/d/1d7nwfS8HyXxR4fePK1sD81p09DlUEmkp/view?usp=sharing)
 
-Throughout the conference, we explored critical topics related to biodiversity research, including data standards, tools, and international initiatives and policy. Your insights and engagement were invaluable, and we appreciate your commitment to advancing our field.
+We want to thank you again for your participation in the Empowering Biodiversity Research III Conference. Your presence significantly contributed to the success of EBR III, and we hope you found it as enjoyable as we did.
+
+Throughout the conference, we explored critical topics related to biodiversity research, including data standards, tools, and international initiatives and their relation to policy. Your insights and engagement were invaluable, and we appreciate your commitment to advancing our field.
 
 We look forward to future collaborations and hope to see you at our upcoming events.
+
 Throughout the conference, we explored the fascinating world of biodiversity data standards and tools, discussing the latest developments in Biodiversity Informatics both locally and internationally. Initiatives such as MAMBO, ARISE, and Biodiversity Genomics Europe were introduced, alongside established entities like GBIF, ELIXIR, Lifewatch, Catalogue of Life, and DiSSCo. Your active engagement and insights contributed significantly to the success of EBR III.
 The comprehensive program included informative sessions, impactful poster presentations, and a state-of-the-art Biodiversity Informatics market. We hope you found these sessions valuable and inspiring. The reception on March 25th provided an excellent opportunity to connect with colleagues and friends in the field of Biodiversity Informatics, fostering meaningful conversations about its potential for our research community.
 As we move forward, our focus remains on effectively utilizing biodiversity data to bridge the gap with policy. We are committed to harnessing the potential of local and international initiatives to drive progress in biodiversity research. Your continued involvement is crucial, and we look forward to future collaborations.
