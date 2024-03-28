@@ -110,13 +110,16 @@ Empowering Biodiversity Research III could never be organised without the suppor
 </p>
 <p class="d-flex justify-content-around align-items-center">  
   <a href="https://www.tdwg.org">
-    <img src="{{ '/assets/logos/tdwg.png' | relative_url }}" alt="Biodiversity Information Standards (TDWG)" width="180">
+    <img src="{{ '/assets/logos/tdwg.png' | relative_url }}" alt="Biodiversity Information Standards (TDWG)" width="140">
   </a>
   <a href="https://www.belspo.be">
-    <img src="{{ '/assets/logos/belspo.png' | relative_url }}" alt="Belgian science policy office" width="180">
+    <img src="{{ '/assets/logos/belspo.png' | relative_url }}" alt="Belgian science policy office" width="140">
+  </a>
+  <a href="https://https://www.naturalsciences.be/">
+    <img src="{{ '/assets/logos/rbins.png' | relative_url }}" alt="RBINS" width="140">
   </a>
   <a href="https://www.naturalis.nl">
-    <img src="{{ '/assets/logos/naturalis.png' | relative_url }}" alt="Naturalis Biodiversity Center" width="180">
+    <img src="{{ '/assets/logos/naturalis.png' | relative_url }}" alt="Naturalis Biodiversity Center" width="140">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">  
