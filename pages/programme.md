@@ -21,7 +21,7 @@ toc: true
 
 Chair: Niels Raes
 
-10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legislation** - Frank Vassen ([European Commission DG-ENV](https://environment.ec.europa.eu/index_en)) **keynote**{:.badge .bg-danger} |
+10:10-10:40 | **Policy & Biodiversity: Research needs for EU nature policy and legislation** - Frank Vassen ([European Commission DG-ENV](https://environment.ec.europa.eu/index_en)) **keynote**{:.badge .bg-danger} [Presentation](https://drive.google.com/file/d/1i3Yx7Kb7Xuyy4nEPl3tffPwdEUVnHsEw/view?usp=drive_link){:.badge .bg-info}
 10:40-11:10 | **[GBIF’s role](https://www.biodiversity.be/EBRIII/abstracts/#gbifs-role-in-empowering-biodiversity-research-and-policy) in empowering biodiversity research and policy** - Tim Hirsch ([GBIF](https://www.gbif.org)) **keynote**{:.badge .bg-danger} [Presentation](https://drive.google.com/file/d/1eVOhqy2xLEe6djxMKIcB9HHmBXam5mfK/view?usp=drive_link){:.badge .bg-info}
 11:10-11:40 | **Coffee break / Poster setup** <i class="fas fa-coffee"></i>
 11:40-12:10 | **[BirdWatch](https://www.biodiversity.be/EBRIII/abstracts/#birdwatch--a-satellite-supported-service-to-monitor-the-habitat-suitability-of-agricultural-land-and-to-evaluate-the-impact-of-agri-environmental-policies-on-farmland-birds) – a satellite-supported service to monitor the habitat suitability of agricultural land and to evaluate the impact of agri-environmental policies on farmland birds** - Nastasja Scholz ([LuP](https://www.lup-umwelt.de/)) **keynote**{:.badge .bg-danger} [Presentation](https://drive.google.com/file/d/1etcv5WdXN5spbDAFuozIyeQRl3lv860M/view?usp=drive_link){:.badge .bg-info}
