@@ -6,7 +6,7 @@ background: /assets/backgrounds/banner2.png
 permalink: /
 ---
 
-# Thank you for attending the EBR III in NATURALIS Biodiversity Center
+# Thank you for attending the EBR III in NATURALIS Biodiversity Center, for the presentations, check the programme page
 
 ## Connecting research to policy
 
