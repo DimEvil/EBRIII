@@ -43,7 +43,7 @@ Chair: Dimitri Brosens
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
 
-15:40-16:30 | **Poster session** 
+15:40-16:30 | **Poster session** [Zenodo community page](https://zenodo.org/communities/empoweringbiodiversityresearch/records?q=&l=list&p=1&s=10&sort=newest){:.badge .bg-warning}
 15:45-18:00 | **Reception**
 
 ## Day 2: Tuesday, March 26
@@ -54,18 +54,18 @@ Chair: Dimitri Brosens
 
 Chair: Paul Braun
 
- 8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home))
- 9:10-9:25 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/))
- 9:25-9:35 | **The [BiCIKL](https://www.biodiversity.be/EBRIII/abstracts/#lyubomir-penev-iva-boyadzhieva-and-the-bicikl-consortium) project traverses obstacles to FAIR and linked biodiversity data usage** - Iva Boyadzhieva ([Pensoft](https://pensoft.net/))
- 9:35-9:45 | **Transferring Taxonomic Knowledge through [TETTRIs](https://www.biodiversity.be/EBRIII/abstracts/#the-bicikl-project-traverses-obstacles-to-fair-and-linked-biodiversity-data-usage)** -  Marta León Monedero ([CETAF](https://www.cetaf.org))
+ 8:55-9:10 | **Extended COL as GBIF backbone taxonomy** - Olaf Banki ([Species2000](https://species2000.org/home)) [Presentation](){:.badge .bg-info}
+ 9:10-9:25 | **Data4Nature/private sector Taskforce on Nature-related Financial Disclosures** - Niels Raes ([NLBIF](https://www.nlbif.nl/)) [Presentation](){:.badge .bg-info}
+ 9:25-9:35 | **The [BiCIKL](https://www.biodiversity.be/EBRIII/abstracts/#lyubomir-penev-iva-boyadzhieva-and-the-bicikl-consortium) project traverses obstacles to FAIR and linked biodiversity data usage** - Iva Boyadzhieva ([Pensoft](https://pensoft.net/)) [Presentation](){:.badge .bg-info}
+ 9:35-9:45 | **Transferring Taxonomic Knowledge through [TETTRIs](https://www.biodiversity.be/EBRIII/abstracts/#the-bicikl-project-traverses-obstacles-to-fair-and-linked-biodiversity-data-usage)** -  Marta León Monedero ([CETAF](https://www.cetaf.org)) [Presentation](){:.badge .bg-info}
 
 ### Session 3.2: [MAMBO](https://www.mambo-project.eu/)
 
 Chair: Vincent Kalkman
 
- 9:50-10:05 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))
-10:05-10:20 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))
-10:20-10:35 | **Insect camera’s, counting insect the digital way** - Toke Høye ([Aarhus University](https://international.au.dk/))
+ 9:50-10:05 | **Image and sound recognition for citizen scientists: current taxonomic and geographic coverage** - Vincent Kalkman ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/modern-approaches-to-monitoring-of-biodiversity-mambo))[Presentation](){:.badge .bg-info}
+10:05-10:20 | **How remotely sensed point clouds can help deliver habitat condition metrics – some MAMBO trials** - France Gerard ([UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/))[Presentation](){:.badge .bg-info}
+10:20-10:35 | **Insect camera’s, counting insect the digital way** - Toke Høye ([Aarhus University](https://international.au.dk/))[Presentation](){:.badge .bg-info}
 
 10:35-11:00 | **Coffee break** <i class="fas fa-coffee"></i>
 
@@ -73,16 +73,16 @@ Chair: Vincent Kalkman
 
 Chair: Julien Radoux
 
-11:00-11:15 | **Species information backbone** - Stefanie Dekeyzer ([VLIZ](https://www.vliz.be))
-11:15-11:30 | **[LTER-LIFE](https://www.biodiversity.be/EBRIII/abstracts/#building-digital-twins-from-data-pipeline-to-ecosystem-insights): Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))
-11:30-11:45 | **Integration of biodiversity monitoring data into the Digital Twin Ocean (DTO-BioFlow)** -  Carlota Muñiz [VLIZ](https://www.vliz.be))
-11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))
+11:00-11:15 | **Species information backbone** - Stefanie Dekeyzer ([VLIZ](https://www.vliz.be))[Presentation](){:.badge .bg-info}
+11:15-11:30 | **[LTER-LIFE](https://www.biodiversity.be/EBRIII/abstracts/#building-digital-twins-from-data-pipeline-to-ecosystem-insights): Building Digital twins from data pipeline to ecosystem insights** - Geerten Hengeveld ([NIOO-KNAW](https://nioo.knaw.nl/en))[Presentation](){:.badge .bg-info}
+11:30-11:45 | **Integration of biodiversity monitoring data into the Digital Twin Ocean (DTO-BioFlow)** -  Carlota Muñiz [VLIZ](https://www.vliz.be))[Presentation](){:.badge .bg-info}
+11:45-12:00 | **Terrestrial ecosystem accounting with ecopatches** - Julien Radoux ([UCL](https://uclouvain.be/en/index.html))[Presentation](){:.badge .bg-info}
 
 Chair: Julien Radoux
 
 ### Session 3.4: [ARISE](https://www.arise-biodiversity.nl/)
 
-12:05-12:35 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))
+12:05-12:35 | **Recognizing all species in all loactions through DNA and AI** - Elaine van Ommen Kloeke ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/arise-knowing-nature-in-the-netherlands))[Presentation](){:.badge .bg-info}
 
 12:35-14:00 | **Lunch break / Poster session** <i class="fas fa-coffee"></i>
 
@@ -90,23 +90,23 @@ Chair: Julien Radoux
 
 Chair: Frederik Leliaert
 
-14:00-14:15 | **DiSSCo - European & technical perspective** - Wouter Addink ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/dissco))
-14:15-14:30 | **CANATHIST (Decolonisation) & DiSSCo FED : contributions to DiSSCo.eu** - Patrick Semal ([RBINS](https://www.naturalsciences.be))
-14:30-14:45 | **GBIF hosted portals for DiSSCo nodes, and university collections use cases.** - Maarten Trekels ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
+14:00-14:15 | **DiSSCo - European & technical perspective** - Wouter Addink ([Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/dissco))[Presentation](){:.badge .bg-info}
+14:15-14:30 | **CANATHIST (Decolonisation) & DiSSCo FED : contributions to DiSSCo.eu** - Patrick Semal ([RBINS](https://www.naturalsciences.be))[Presentation](){:.badge .bg-info}
+14:30-14:45 | **GBIF hosted portals for DiSSCo nodes, and university collections use cases.** - Maarten Trekels ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))[Presentation](){:.badge .bg-info}
 
 ### Session 4.2: [ELIXIR](https://elixir-europe.org/)
 
 Chair: Gabriela Dankova
 
-14:50-15:10 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))
-15:10-15:30 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))
+14:50-15:10 | **Exploration of (non-)model plant genomes using the PLAZA platform.** - Klaas Vandepoele ([VIB-UGent Center for Plant Systems Biology](https://vib.be/en/research-and-impact/research-centers/center-plant-systems-biology#/))[Presentation](){:.badge .bg-info}
+15:10-15:30 | **Streamlining (Meta)Data Management and Submission to Repositories** - Flora D’Anna & Bert Droesbeke ([VIB Data Core](https://datacore.sites.vib.be/en) / [ELIXIR Belgium](https://www.elixir-belgium.org/))[Presentation](){:.badge .bg-info}
 
 Chair: Gabriela Dankova
 
 ### Session 4.3: [BGE](https://biodiversitygenomics.eu/)
 
-15:30-15:50 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camila Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))
-15:50-16:05 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis Biodiversity Center](https://www.naturalis.nl/biodiversity-genomics-europe-bge))
+15:30-15:50 | **Workflows and standards delivering reference genomes for Biodiversity Genomics Europe** - Camila Mazzoni ([Leibniz Institute for Zoo and Wildlife](https://www.izw-berlin.de/en/home.html))[Presentation](){:.badge .bg-info}
+15:50-16:05 | **Achieving a step change in output and capacity building in DNA barcoding: the BIOSCAN stream of Biodiversity Genomics Europe"** - Rutger Vos ([Naturalis Biodiversity Center](https://www.naturalis.nl/biodiversity-genomics-europe-bge))[Presentation](){:.badge .bg-info}
 16:05-16:20 | **Q&A** 
 
 ### Closing
