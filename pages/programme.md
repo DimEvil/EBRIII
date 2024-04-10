@@ -34,11 +34,11 @@ Chair: Dimitri Brosens
 
 14:00-14:15 | **Information Session on Workshops** - Dimitri Brosens **workshops**{:.badge .bg-info text-dark}
 
-14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation
-14:30-14:45 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en))
-14:45-15:00 | **[MIRRI-ERIC:](https://www.biodiversity.be/EBRIII/abstracts/#unlocking-the-hidden-treasure-mirri-erics-role-in-facilitating-access-to-culture-collection-data) taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/))
+14:15-14:30 | **How GBIF will facilitate more varied types of data (e.g., ecological, eDNA, biological interactions, material samples with subsamples and associated media, taxonomic treatments) in the future.** - John Wieczorek ([University of Berkeley](https://www.berkeley.edu/)) & Tim Robertson ([GBIF](https://www.gbif.org)) ~remote presentation [Presentation](https://drive.google.com/file/d/1fFW8gkLjPwXJH1Y0Ep-e2RWjmerF1_0v/view?usp=drive_link){:.badge .bg-info}
+14:30-14:45 | **Biodiversity Building Blocks for Policy** - Quentin Groom ([Meise Botanic Garden](https://www.plantentuinmeise.be/en)) [Presentation](https://drive.google.com/file/d/1fMYYDRmqWkgo9KyPy_EO830k8j3tSCBV/view?usp=drive_link){:.badge .bg-info}
+14:45-15:00 | **[MIRRI-ERIC:](https://www.biodiversity.be/EBRIII/abstracts/#unlocking-the-hidden-treasure-mirri-erics-role-in-facilitating-access-to-culture-collection-data) taping the hidden treasure of data in culture collections** - Ana Portugal Melo ([MIRRI-Eric](https://www.mirri.org/)) [Presentation](https://drive.google.com/file/d/1fgoVw9O9u16SeeWcJ8TuphAiSFMQpHDs/view?usp=drive_link){:.badge .bg-info}
 15:00-15:15 | **Large-scale biodiversity assessment with eDNA and the trouble of entropy: ways forward** - Florian Leese ([UNI-DUE](https://www.uni-due.de/)) ~remote presentation
-15:15-15:30 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Martijn Bollen - [agouti](https://www.agouti.eu/)
+15:15-15:30 | **Agouti: Camera Traps, from Wildlife Research to Wildlife Management & Policy** - Martijn Bollen - [agouti](https://www.agouti.eu/) [Presentation](https://drive.google.com/file/d/1fnGLHmtG3WvkY9dzvLF12D4o4JCt-34-/view?usp=drive_link){:.badge .bg-info}
 15:30-15:40 | **wrap up plenary day one** 
 
 ### Biodiversity market & Reception <i class="fa fa-coffee"></i>
