@@ -33,7 +33,7 @@ Lunch offered: yes <br />
 Registration: [register](https://b-cubed.eu/b-cubed-hackathon) <br />
 
 
-## Workshop 2: Data publishing workshop on Zenodo and GBIF *Postponed*
+## Workshop 2: Data publishing workshop on Zenodo and GBIF *Cancelled for now*
 organized by INBO (Dimitri Brosens & Lien Reyserhove)
 
 This one day workshop focuses on optimizing data visibility through either Zenodo or the Global Biodiversity Information Facility (GBIF). Participants will delve into the features of Zenodo for seamless dataset sharing and discover the steps to publish datasets effectively on GBIF. Through hands-on exercises, attendees will gain practical skills to enhance the reach and impact of their research, aligning with the principles of open science and collaborative data dissemination.
